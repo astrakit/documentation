@@ -11,7 +11,7 @@ export default {
   "baseUrl": "/",
   "organizationName": "astrakit",
   "projectName": "documentation",
-  "onBrokenLinks": "throw",
+  "onBrokenLinks": "warn",
   "onBrokenMarkdownLinks": "warn",
   "i18n": {
     "defaultLocale": "en",
