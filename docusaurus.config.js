@@ -73,11 +73,16 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      colorMode: {
+        defaultMode: 'dark',
+        disableSwitch: false, // Allow users to switch themes
+        respectPrefersColorScheme: true, // Ignore system preference
+      },
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
         style: 'dark',
-        title: 'Astrakit',
+        title: 'Astrakit documentation',
         logo: {
           alt: 'Astrakit planet',
           src: 'img/astrakit.png',

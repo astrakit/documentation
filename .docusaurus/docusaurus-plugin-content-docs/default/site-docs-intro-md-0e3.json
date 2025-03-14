@@ -1,7 +1,7 @@
 {
   "id": "intro",
-  "title": "Tutorial Intro",
-  "description": "Let's discover Docusaurus in less than 5 minutes.",
+  "title": "Getting started",
+  "description": "Let's discover Astrakit in less than 5 minutes. You'll learn how to set up an account and clients, as well as how to make sure your data remains safe :)",
   "source": "@site/docs/intro.md",
   "sourceDirName": ".",
   "slug": "/intro",
