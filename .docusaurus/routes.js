@@ -54,15 +54,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '5ee'),
+    component: ComponentCreator('/docs', '7b0'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '1eb'),
+        component: ComponentCreator('/docs', 'f86'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '4cc'),
+            component: ComponentCreator('/docs', '17b'),
             routes: [
               {
                 path: '/docs/category/chats',
@@ -73,6 +73,12 @@ export default [
               {
                 path: '/docs/category/groups-chats',
                 component: ComponentCreator('/docs/category/groups-chats', '17d'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/category/legal-matters',
+                component: ComponentCreator('/docs/category/legal-matters', '1ed'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -115,6 +121,24 @@ export default [
               {
                 path: '/docs/getting-started',
                 component: ComponentCreator('/docs/getting-started', '2a1'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/legal/privacy',
+                component: ComponentCreator('/docs/legal/privacy', 'd36'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/legal/securityrep',
+                component: ComponentCreator('/docs/legal/securityrep', '2c1'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/legal/tos',
+                component: ComponentCreator('/docs/legal/tos', 'bb4'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

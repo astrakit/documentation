@@ -1,0 +1,22 @@
+{
+  "id": "legal/terms-of-service",
+  "title": "Terms of Service (15/03/2025)",
+  "description": "Astrakit's TOS",
+  "source": "@site/docs/legal/terms-of-service.md",
+  "sourceDirName": "legal",
+  "slug": "/legal/terms-of-service",
+  "permalink": "/docs/legal/terms-of-service",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/legal/terms-of-service.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "description": "Astrakit's TOS"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Privacy policy (15/03/2025)",
+    "permalink": "/docs/legal/privacy"
+  }
+}

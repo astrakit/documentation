@@ -18,5 +18,9 @@
   "previous": {
     "title": "Places",
     "permalink": "/docs/category/places"
+  },
+  "next": {
+    "title": "Legal matters",
+    "permalink": "/docs/category/legal-matters"
   }
 }

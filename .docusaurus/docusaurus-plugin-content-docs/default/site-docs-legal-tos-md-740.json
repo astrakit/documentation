@@ -1,0 +1,29 @@
+{
+  "id": "legal/tos",
+  "title": "Terms of Service (15/03/2025)",
+  "description": "Astrakit's TOS",
+  "source": "@site/docs/legal/tos.md",
+  "sourceDirName": "legal",
+  "slug": "/legal/tos",
+  "permalink": "/docs/legal/tos",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/legal/tos.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "description": "Astrakit's TOS",
+    "sidebar_position": 2,
+    "sidebar_label": "Terms of Service"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Privacy policy",
+    "permalink": "/docs/legal/privacy"
+  },
+  "next": {
+    "title": "Security notice",
+    "permalink": "/docs/legal/securityrep"
+  }
+}

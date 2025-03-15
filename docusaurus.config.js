@@ -35,6 +35,8 @@ const config = {
     defaultLocale: 'en',
     locales: ['en'],
   },
+  
+  plugins: [require.resolve('docusaurus-lunr-search')],
 
   presets: [
     [
@@ -148,6 +150,23 @@ const config = {
               },
             ],
           },
+          {
+            title: 'Legal matters',
+            items: [
+              {
+                label: 'Privacy Policy',
+                href: '/docs/legal/privacy',
+              },
+              {
+                label: 'Terms Of Service',
+                href: '/docs/legal/tos',
+              },
+              {
+                label: 'Security notice',
+                href: '/docs/legal/securityrep',
+              },
+            ],
+          },
         ],
         copyright: `Copyright © ${new Date().getFullYear()} Astrakit.`,
       },
@@ -157,5 +176,4 @@ const config = {
       },
     }),
 };
-
 export default config;

@@ -21,6 +21,9 @@ export default {
     "path": "i18n",
     "localeConfigs": {}
   },
+  "plugins": [
+    "/run/media/cat/QVO/01 - CODE/astrakit-docs/documentation/node_modules/docusaurus-lunr-search/src/index.js"
+  ],
   "presets": [
     [
       "classic",
@@ -122,6 +125,23 @@ export default {
             {
               "label": "GitHub - website",
               "href": "https://github.com/astrakit/main-website"
+            }
+          ]
+        },
+        {
+          "title": "Legal matters",
+          "items": [
+            {
+              "label": "Privacy Policy",
+              "href": "/docs/legal/privacy"
+            },
+            {
+              "label": "Terms Of Service",
+              "href": "/docs/legal/tos"
+            },
+            {
+              "label": "Security notice",
+              "href": "/docs/legal/securityrep"
             }
           ]
         }
@@ -372,7 +392,6 @@ export default {
     "static"
   ],
   "customFields": {},
-  "plugins": [],
   "themes": [],
   "scripts": [],
   "headTags": [],
