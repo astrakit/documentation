@@ -11,6 +11,16 @@
           "mainDocId": "getting-started",
           "docs": [
             {
+              "id": "account/deletion",
+              "path": "/docs/account/deletion",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "account/information",
+              "path": "/docs/account/information",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "chats/group-chats/information",
               "path": "/docs/chats/group-chats/information",
               "sidebar": "tutorialSidebar"
@@ -104,6 +114,11 @@
               "id": "/category/issues",
               "path": "/docs/category/issues",
               "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/your-account",
+              "path": "/docs/category/your-account",
+              "sidebar": "tutorialSidebar"
             }
           ],
           "draftIds": [],
@@ -123,8 +138,8 @@
   "docusaurus-lunr-search": {
     "default": {
       "fileNames": {
-        "searchDoc": "search-doc-1742065307315.json",
-        "lunrIndex": "lunr-index-1742065307315.json"
+        "searchDoc": "search-doc-1742074974166.json",
+        "lunrIndex": "lunr-index-1742074974166.json"
       }
     }
   }

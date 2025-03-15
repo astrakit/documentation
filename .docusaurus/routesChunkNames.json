@@ -72,18 +72,26 @@
     },
     "content": "content---markdown-page-393-028"
   },
-  "/docs-a34": {
+  "/docs-a0c": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docsaba-d7c"
     }
   },
-  "/docs-e94": {
+  "/docs-dec": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---docs-005-788"
   },
-  "/docs-105": {
+  "/docs-de5": {
     "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/docs/account/deletion-0d5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-account-deletion-077-d94"
+  },
+  "/docs/account/information-8b1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-account-information-61-f-a94"
   },
   "/docs/category/chats-1f9": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
@@ -113,51 +121,55 @@
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "__props": "__props---docs-category-security-6-a-3-b20"
   },
-  "/docs/chats/group-chats/information-890": {
+  "/docs/category/your-account-805": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---docs-category-your-account-730-dc4"
+  },
+  "/docs/chats/group-chats/information-255": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-chats-group-chats-informationf-82-13c"
   },
-  "/docs/chats/places-chats/information-63c": {
+  "/docs/chats/places-chats/information-49f": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-chats-places-chats-information-15-e-e01"
   },
-  "/docs/chats/private-chats/information-b9f": {
+  "/docs/chats/private-chats/information-0bb": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-chats-private-chats-informationdb-9-73c"
   },
-  "/docs/getting-started-2a1": {
+  "/docs/getting-started-524": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-getting-startedd-58-f94"
   },
-  "/docs/issues/err001-6fb": {
+  "/docs/issues/err001-79b": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-issues-err-0013-f-5-270"
   },
-  "/docs/issues/err002-a47": {
+  "/docs/issues/err002-7ff": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-issues-err-0021-c-9-75c"
   },
-  "/docs/issues/err003-c55": {
+  "/docs/issues/err003-533": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-issues-err-0035-d-8-3a2"
   },
-  "/docs/legal/privacy-d36": {
+  "/docs/legal/privacy-683": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-legal-privacyd-2-c-e88"
   },
-  "/docs/legal/securityrep-2c1": {
+  "/docs/legal/securityrep-0f3": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-legal-securityrep-4-ba-2d1"
   },
-  "/docs/legal/tos-bb4": {
+  "/docs/legal/tos-c29": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-legal-tos-740-488"
   },
-  "/docs/security/information-8a2": {
+  "/docs/security/information-6c8": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-security-information-521-03e"
   },
-  "/docs/security/report-384": {
+  "/docs/security/report-d4e": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-security-report-859-84e"
   },

@@ -54,16 +54,28 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'a34'),
+    component: ComponentCreator('/docs', 'a0c'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', 'e94'),
+        component: ComponentCreator('/docs', 'dec'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '105'),
+            component: ComponentCreator('/docs', 'de5'),
             routes: [
+              {
+                path: '/docs/account/deletion',
+                component: ComponentCreator('/docs/account/deletion', '0d5'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/account/information',
+                component: ComponentCreator('/docs/account/information', '8b1'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
               {
                 path: '/docs/category/chats',
                 component: ComponentCreator('/docs/category/chats', '1f9'),
@@ -107,74 +119,80 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
+                path: '/docs/category/your-account',
+                component: ComponentCreator('/docs/category/your-account', '805'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
                 path: '/docs/chats/group-chats/information',
-                component: ComponentCreator('/docs/chats/group-chats/information', '890'),
+                component: ComponentCreator('/docs/chats/group-chats/information', '255'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/docs/chats/places-chats/information',
-                component: ComponentCreator('/docs/chats/places-chats/information', '63c'),
+                component: ComponentCreator('/docs/chats/places-chats/information', '49f'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/docs/chats/private-chats/information',
-                component: ComponentCreator('/docs/chats/private-chats/information', 'b9f'),
+                component: ComponentCreator('/docs/chats/private-chats/information', '0bb'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/docs/getting-started',
-                component: ComponentCreator('/docs/getting-started', '2a1'),
+                component: ComponentCreator('/docs/getting-started', '524'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/docs/issues/err001',
-                component: ComponentCreator('/docs/issues/err001', '6fb'),
+                component: ComponentCreator('/docs/issues/err001', '79b'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/docs/issues/err002',
-                component: ComponentCreator('/docs/issues/err002', 'a47'),
+                component: ComponentCreator('/docs/issues/err002', '7ff'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/docs/issues/err003',
-                component: ComponentCreator('/docs/issues/err003', 'c55'),
+                component: ComponentCreator('/docs/issues/err003', '533'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/docs/legal/privacy',
-                component: ComponentCreator('/docs/legal/privacy', 'd36'),
+                component: ComponentCreator('/docs/legal/privacy', '683'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/docs/legal/securityrep',
-                component: ComponentCreator('/docs/legal/securityrep', '2c1'),
+                component: ComponentCreator('/docs/legal/securityrep', '0f3'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/docs/legal/tos',
-                component: ComponentCreator('/docs/legal/tos', 'bb4'),
+                component: ComponentCreator('/docs/legal/tos', 'c29'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/docs/security/information',
-                component: ComponentCreator('/docs/security/information', '8a2'),
+                component: ComponentCreator('/docs/security/information', '6c8'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/docs/security/report',
-                component: ComponentCreator('/docs/security/report', '384'),
+                component: ComponentCreator('/docs/security/report', 'd4e'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }

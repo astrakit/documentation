@@ -11,6 +11,8 @@
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/issues/err003.md",
   "tags": [],
   "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055000,
   "frontMatter": {
     "description": "The client has a high ping while connecting to the backend."
   },
@@ -18,5 +20,9 @@
   "previous": {
     "title": "ERR002 (Unencrypted)",
     "permalink": "/docs/issues/err002"
+  },
+  "next": {
+    "title": "Your account",
+    "permalink": "/docs/category/your-account"
   }
 }
