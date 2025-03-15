@@ -1,0 +1,22 @@
+{
+  "id": "issues/err003",
+  "title": "ERR003 (High ping)",
+  "description": "The client has a high ping while connecting to the backend.",
+  "source": "@site/docs/issues/err003.md",
+  "sourceDirName": "issues",
+  "slug": "/issues/err003",
+  "permalink": "/docs/issues/err003",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/issues/err003.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "description": "The client has a high ping while connecting to the backend."
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ERR002 (Unencrypted)",
+    "permalink": "/docs/issues/err002"
+  }
+}

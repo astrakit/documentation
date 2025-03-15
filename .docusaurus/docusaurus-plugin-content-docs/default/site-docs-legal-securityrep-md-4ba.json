@@ -21,5 +21,9 @@
   "previous": {
     "title": "Terms of Service",
     "permalink": "/docs/legal/tos"
+  },
+  "next": {
+    "title": "Issues",
+    "permalink": "/docs/category/issues"
   }
 }

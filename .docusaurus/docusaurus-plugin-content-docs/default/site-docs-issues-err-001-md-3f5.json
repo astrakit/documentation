@@ -1,0 +1,26 @@
+{
+  "id": "issues/err001",
+  "title": "ERR001 (Unable to connect)",
+  "description": "The client is unable to connect to the backend.",
+  "source": "@site/docs/issues/err001.md",
+  "sourceDirName": "issues",
+  "slug": "/issues/err001",
+  "permalink": "/docs/issues/err001",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/issues/err001.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "description": "The client is unable to connect to the backend."
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Issues",
+    "permalink": "/docs/category/issues"
+  },
+  "next": {
+    "title": "ERR002 (Unencrypted)",
+    "permalink": "/docs/issues/err002"
+  }
+}

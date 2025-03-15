@@ -54,15 +54,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '7b0'),
+    component: ComponentCreator('/docs', 'a34'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', 'f86'),
+        component: ComponentCreator('/docs', 'e94'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '17b'),
+            component: ComponentCreator('/docs', '105'),
             routes: [
               {
                 path: '/docs/category/chats',
@@ -73,6 +73,12 @@ export default [
               {
                 path: '/docs/category/groups-chats',
                 component: ComponentCreator('/docs/category/groups-chats', '17d'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/category/issues',
+                component: ComponentCreator('/docs/category/issues', 'aac'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -121,6 +127,24 @@ export default [
               {
                 path: '/docs/getting-started',
                 component: ComponentCreator('/docs/getting-started', '2a1'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/issues/err001',
+                component: ComponentCreator('/docs/issues/err001', '6fb'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/issues/err002',
+                component: ComponentCreator('/docs/issues/err002', 'a47'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/issues/err003',
+                component: ComponentCreator('/docs/issues/err003', 'c55'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

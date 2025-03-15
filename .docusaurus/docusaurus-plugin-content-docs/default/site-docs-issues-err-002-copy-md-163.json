@@ -1,0 +1,26 @@
+{
+  "id": "issues/err002 copy",
+  "title": "ERR002 (Unencrypted connection)",
+  "description": "The client wants to start an unencrypted connection.",
+  "source": "@site/docs/issues/err002 copy.md",
+  "sourceDirName": "issues",
+  "slug": "/issues/err002 copy",
+  "permalink": "/docs/issues/err002 copy",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/issues/err002 copy.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "description": "The client wants to start an unencrypted connection."
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ERR001 (Unable to connect)",
+    "permalink": "/docs/issues/err001"
+  },
+  "next": {
+    "title": "ERR002 (Unencrypted connection)",
+    "permalink": "/docs/issues/err002"
+  }
+}

@@ -31,6 +31,21 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "issues/err001",
+              "path": "/docs/issues/err001",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "issues/err002",
+              "path": "/docs/issues/err002",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "issues/err003",
+              "path": "/docs/issues/err003",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "legal/privacy",
               "path": "/docs/legal/privacy",
               "sidebar": "tutorialSidebar"
@@ -83,6 +98,11 @@
             {
               "id": "/category/legal-matters",
               "path": "/docs/category/legal-matters",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/issues",
+              "path": "/docs/category/issues",
               "sidebar": "tutorialSidebar"
             }
           ],
