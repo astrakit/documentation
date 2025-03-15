@@ -109,7 +109,7 @@ const config = {
             items: [
               {
                 label: 'Tutorial',
-                to: '/docs/intro',
+                to: '/docs/getting-started',
               },
             ],
           },
@@ -124,23 +124,27 @@ const config = {
                 label: 'Mastodon (cat-space)',
                 href: 'https://cat-space.net/@astrakit',
               },
+              {
+                label: 'Main website',
+                href: 'https://astrakit.cc',
+              },
             ],
           },
           {
             title: 'More',
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
+                label: 'GitHub - docs',
+                href: 'https://github.com/astrakit/documentation',
               },
               {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                label: 'GitHub - website',
+                href: 'https://github.com/astrakit/main-website',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Astrakit. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Astrakit.`,
       },
       prism: {
         theme: prismThemes.github,

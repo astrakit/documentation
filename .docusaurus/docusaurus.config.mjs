@@ -86,7 +86,7 @@ export default {
           "items": [
             {
               "label": "Tutorial",
-              "to": "/docs/intro"
+              "to": "/docs/getting-started"
             }
           ]
         },
@@ -100,6 +100,10 @@ export default {
             {
               "label": "Mastodon (cat-space)",
               "href": "https://cat-space.net/@astrakit"
+            },
+            {
+              "label": "Main website",
+              "href": "https://astrakit.cc"
             }
           ]
         },
@@ -107,17 +111,17 @@ export default {
           "title": "More",
           "items": [
             {
-              "label": "Blog",
-              "to": "/blog"
+              "label": "GitHub - docs",
+              "href": "https://github.com/astrakit/documentation"
             },
             {
-              "label": "GitHub",
-              "href": "https://github.com/facebook/docusaurus"
+              "label": "GitHub - website",
+              "href": "https://github.com/astrakit/main-website"
             }
           ]
         }
       ],
-      "copyright": "Copyright © 2025 Astrakit. Built with Docusaurus."
+      "copyright": "Copyright © 2025 Astrakit."
     },
     "prism": {
       "theme": {

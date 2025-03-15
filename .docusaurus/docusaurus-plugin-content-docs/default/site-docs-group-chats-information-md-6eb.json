@@ -1,0 +1,26 @@
+{
+  "id": "group-chats/information",
+  "title": "What are group chats?",
+  "description": "Learn more about group chats and what they even are!",
+  "source": "@site/docs/group-chats/information.md",
+  "sourceDirName": "group-chats",
+  "slug": "/group-chats/information",
+  "permalink": "/docs/group-chats/information",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/group-chats/information.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "description": "Learn more about group chats and what they even are!"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chats - Groups",
+    "permalink": "/docs/category/chats---groups"
+  },
+  "next": {
+    "title": "Chats - Places",
+    "permalink": "/docs/category/chats---places"
+  }
+}
