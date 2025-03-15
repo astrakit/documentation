@@ -1,0 +1,26 @@
+{
+  "id": "chats/private-chats/information",
+  "title": "What are private chats?",
+  "description": "Learn more about private chats and what they even are!",
+  "source": "@site/docs/chats/private-chats/information.md",
+  "sourceDirName": "chats/private-chats",
+  "slug": "/chats/private-chats/information",
+  "permalink": "/docs/chats/private-chats/information",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/chats/private-chats/information.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "description": "Learn more about private chats and what they even are!"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Private chats",
+    "permalink": "/docs/category/private-chats"
+  },
+  "next": {
+    "title": "Groups chats",
+    "permalink": "/docs/category/groups-chats"
+  }
+}

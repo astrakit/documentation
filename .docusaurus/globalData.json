@@ -11,38 +11,58 @@
           "mainDocId": "getting-started",
           "docs": [
             {
+              "id": "chats/group-chats/information",
+              "path": "/docs/chats/group-chats/information",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "chats/places-chats/information",
+              "path": "/docs/chats/places-chats/information",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "chats/private-chats/information",
+              "path": "/docs/chats/private-chats/information",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "getting-started",
               "path": "/docs/getting-started",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "group-chats/information",
-              "path": "/docs/group-chats/information",
+              "id": "security/information",
+              "path": "/docs/security/information",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "places-chats/information",
-              "path": "/docs/places-chats/information",
+              "id": "security/report",
+              "path": "/docs/security/report",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "private-chats/information",
-              "path": "/docs/private-chats/information",
+              "id": "/category/security",
+              "path": "/docs/category/security",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "/category/chats---private",
-              "path": "/docs/category/chats---private",
+              "id": "/category/chats",
+              "path": "/docs/category/chats",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "/category/chats---groups",
-              "path": "/docs/category/chats---groups",
+              "id": "/category/private-chats",
+              "path": "/docs/category/private-chats",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "/category/chats---places",
-              "path": "/docs/category/chats---places",
+              "id": "/category/groups-chats",
+              "path": "/docs/category/groups-chats",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/places",
+              "path": "/docs/category/places",
               "sidebar": "tutorialSidebar"
             }
           ],

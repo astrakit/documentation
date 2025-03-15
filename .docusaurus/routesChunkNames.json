@@ -72,46 +72,62 @@
     },
     "content": "content---markdown-page-393-028"
   },
-  "/docs-bce": {
+  "/docs-5ee": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docsaba-d7c"
     }
   },
-  "/docs-57f": {
+  "/docs-1eb": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---docs-005-788"
   },
-  "/docs-5b6": {
+  "/docs-4cc": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
-  "/docs/category/chats---groups-e54": {
+  "/docs/category/chats-1f9": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---docs-category-chats-groupsb-93-791"
+    "__props": "__props---docs-category-chatse-46-a85"
   },
-  "/docs/category/chats---places-4d4": {
+  "/docs/category/groups-chats-17d": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---docs-category-chats-places-4-a-8-1a8"
+    "__props": "__props---docs-category-groups-chats-5-ff-e33"
   },
-  "/docs/category/chats---private-77b": {
+  "/docs/category/places-e05": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---docs-category-chats-private-85-d-fc7"
+    "__props": "__props---docs-category-placescd-2-d3f"
+  },
+  "/docs/category/private-chats-951": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---docs-category-private-chatsb-8-c-646"
+  },
+  "/docs/category/security-f9e": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---docs-category-security-6-a-3-b20"
+  },
+  "/docs/chats/group-chats/information-890": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-chats-group-chats-informationf-82-13c"
+  },
+  "/docs/chats/places-chats/information-63c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-chats-places-chats-information-15-e-e01"
+  },
+  "/docs/chats/private-chats/information-b9f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-chats-private-chats-informationdb-9-73c"
   },
   "/docs/getting-started-2a1": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-getting-startedd-58-f94"
   },
-  "/docs/group-chats/information-83b": {
+  "/docs/security/information-8a2": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-group-chats-information-6-eb-7ab"
+    "content": "content---docs-security-information-521-03e"
   },
-  "/docs/places-chats/information-4f3": {
+  "/docs/security/report-384": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-places-chats-information-4-bb-e90"
-  },
-  "/docs/private-chats/information-4be": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-private-chats-information-329-ca4"
+    "content": "content---docs-security-report-859-84e"
   },
   "/-2e1": {
     "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",

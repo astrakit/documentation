@@ -71,6 +71,11 @@ export default {
           "label": "Documentation"
         },
         {
+          "to": "/docs/security/report",
+          "label": "Security Report",
+          "position": "left"
+        },
+        {
           "href": "https://github.com/astrakit/documentation",
           "label": "GitHub",
           "position": "right"

@@ -1,0 +1,8 @@
+{
+  "label": "Chats",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "Learn about every single chat type and how to use them."
+  }
+}

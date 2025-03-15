@@ -1,0 +1,26 @@
+{
+  "id": "security/information",
+  "title": "How does Astrakit's security work?",
+  "description": "Learn more about private chats and what they even are!",
+  "source": "@site/docs/security/information.md",
+  "sourceDirName": "security",
+  "slug": "/security/information",
+  "permalink": "/docs/security/information",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/security/information.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "description": "Learn more about private chats and what they even are!"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Security",
+    "permalink": "/docs/category/security"
+  },
+  "next": {
+    "title": "Report a security issue",
+    "permalink": "/docs/security/report"
+  }
+}

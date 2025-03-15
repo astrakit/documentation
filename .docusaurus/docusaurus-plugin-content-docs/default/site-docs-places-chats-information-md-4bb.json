@@ -18,5 +18,9 @@
   "previous": {
     "title": "Chats - Places",
     "permalink": "/docs/category/chats---places"
+  },
+  "next": {
+    "title": "Security",
+    "permalink": "/docs/category/security"
   }
 }

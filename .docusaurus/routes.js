@@ -54,31 +54,61 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'bce'),
+    component: ComponentCreator('/docs', '5ee'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '57f'),
+        component: ComponentCreator('/docs', '1eb'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '5b6'),
+            component: ComponentCreator('/docs', '4cc'),
             routes: [
               {
-                path: '/docs/category/chats---groups',
-                component: ComponentCreator('/docs/category/chats---groups', 'e54'),
+                path: '/docs/category/chats',
+                component: ComponentCreator('/docs/category/chats', '1f9'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/category/chats---places',
-                component: ComponentCreator('/docs/category/chats---places', '4d4'),
+                path: '/docs/category/groups-chats',
+                component: ComponentCreator('/docs/category/groups-chats', '17d'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/category/chats---private',
-                component: ComponentCreator('/docs/category/chats---private', '77b'),
+                path: '/docs/category/places',
+                component: ComponentCreator('/docs/category/places', 'e05'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/category/private-chats',
+                component: ComponentCreator('/docs/category/private-chats', '951'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/category/security',
+                component: ComponentCreator('/docs/category/security', 'f9e'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/chats/group-chats/information',
+                component: ComponentCreator('/docs/chats/group-chats/information', '890'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/chats/places-chats/information',
+                component: ComponentCreator('/docs/chats/places-chats/information', '63c'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/chats/private-chats/information',
+                component: ComponentCreator('/docs/chats/private-chats/information', 'b9f'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -89,20 +119,14 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/group-chats/information',
-                component: ComponentCreator('/docs/group-chats/information', '83b'),
+                path: '/docs/security/information',
+                component: ComponentCreator('/docs/security/information', '8a2'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/places-chats/information',
-                component: ComponentCreator('/docs/places-chats/information', '4f3'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/private-chats/information',
-                component: ComponentCreator('/docs/private-chats/information', '4be'),
+                path: '/docs/security/report',
+                component: ComponentCreator('/docs/security/report', '384'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }
