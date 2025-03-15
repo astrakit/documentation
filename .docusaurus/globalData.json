@@ -56,6 +56,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "issues/err004",
+              "path": "/docs/issues/err004",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "legal/privacy",
               "path": "/docs/legal/privacy",
               "sidebar": "tutorialSidebar"

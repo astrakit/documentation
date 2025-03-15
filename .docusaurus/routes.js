@@ -54,15 +54,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'a0c'),
+    component: ComponentCreator('/docs', '6d1'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', 'dec'),
+        component: ComponentCreator('/docs', 'f6a'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', 'de5'),
+            component: ComponentCreator('/docs', 'dae'),
             routes: [
               {
                 path: '/docs/account/deletion',
@@ -163,6 +163,12 @@ export default [
               {
                 path: '/docs/issues/err003',
                 component: ComponentCreator('/docs/issues/err003', '533'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/issues/err004',
+                component: ComponentCreator('/docs/issues/err004', 'cbb'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
