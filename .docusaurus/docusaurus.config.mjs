@@ -6,7 +6,7 @@
 export default {
   "title": "Astrakit",
   "tagline": "Discover the future of chatting",
-  "favicon": "img/favicon.ico",
+  "favicon": "img/astrakit.png",
   "url": "https://docs.astrakit.cc",
   "baseUrl": "/",
   "organizationName": "astrakit",
@@ -30,7 +30,7 @@ export default {
       {
         "docs": {
           "sidebarPath": "./sidebars.js",
-          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/",
+          "editUrl": "https://github.com/astrakit/documentation/tree/main/packages/create-docusaurus/templates/shared/",
           "showLastUpdateTime": true,
           "showLastUpdateAuthor": true
         },
@@ -43,7 +43,7 @@ export default {
             ],
             "xslt": true
           },
-          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/",
+          "editUrl": "https://github.com/astrakit/documentation/tree/main/packages/create-docusaurus/templates/shared/",
           "onInlineTags": "warn",
           "onInlineAuthors": "warn",
           "onUntruncatedBlogPosts": "warn"
@@ -57,10 +57,10 @@ export default {
   "themeConfig": {
     "colorMode": {
       "defaultMode": "dark",
-      "disableSwitch": false,
-      "respectPrefersColorScheme": true
+      "disableSwitch": true,
+      "respectPrefersColorScheme": false
     },
-    "image": "img/docusaurus-social-card.jpg",
+    "image": "img/social-card.png",
     "navbar": {
       "style": "dark",
       "title": "Astrakit documentation",
@@ -79,6 +79,11 @@ export default {
           "to": "/docs/security/report",
           "label": "Security Report",
           "position": "left"
+        },
+        {
+          "href": "https://astrakit.cc/donate",
+          "label": "Donate",
+          "position": "right"
         },
         {
           "href": "https://github.com/astrakit/documentation",

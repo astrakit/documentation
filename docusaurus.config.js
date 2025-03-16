@@ -12,7 +12,7 @@ import { themes as prismThemes } from 'prism-react-renderer';
 const config = {
   title: 'Astrakit',
   tagline: 'Discover the future of chatting',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/astrakit.png',
 
   // Set the production url of your site here
   url: 'https://docs.astrakit.cc',
@@ -48,7 +48,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/astrakit/documentation/tree/main/packages/create-docusaurus/templates/shared/',
             showLastUpdateTime: true,
         showLastUpdateAuthor: true,
         },
@@ -61,7 +61,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/astrakit/documentation/tree/main/packages/create-docusaurus/templates/shared/',
           // Useful options to enforce blogging best practices
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
@@ -79,11 +79,11 @@ const config = {
     ({
       colorMode: {
         defaultMode: 'dark',
-        disableSwitch: false, // Allow users to switch themes
-        respectPrefersColorScheme: true, // Ignore system preference
+        disableSwitch: true, // Allow users to switch themes
+        respectPrefersColorScheme: false, // Ignore system preference
       },
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      image: 'img/social-card.png',
       navbar: {
         style: 'dark',
         title: 'Astrakit documentation',
@@ -102,6 +102,11 @@ const config = {
             to: '/docs/security/report',
             label: 'Security Report',
             position: 'left',
+          },
+          {
+            href: 'https://astrakit.cc/donate',
+            label: 'Donate',
+            position: 'right',
           },
           {
             href: 'https://github.com/astrakit/documentation',
