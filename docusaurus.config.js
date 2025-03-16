@@ -148,6 +148,10 @@ const config = {
             title: 'More',
             items: [
               {
+                label: 'Network status',
+                href: 'https://status.astrakit.cc',
+              },
+              {
                 label: 'GitHub - docs',
                 href: 'https://github.com/astrakit/documentation',
               },
