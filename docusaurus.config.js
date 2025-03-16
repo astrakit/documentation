@@ -86,7 +86,7 @@ const config = {
       image: 'img/social-card.png',
       navbar: {
         style: 'dark',
-        title: 'Astrakit documentation',
+        title: 'Astrakit',
         logo: {
           alt: 'Astrakit planet',
           src: 'img/astrakit.png',
