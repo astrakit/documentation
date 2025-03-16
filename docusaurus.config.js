@@ -11,7 +11,7 @@ import { themes as prismThemes } from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Astrakit',
-  tagline: 'Discover the future of chatting',
+  tagline: 'Astrakit is a free and open-source chat app designed for seamless communication.',
   favicon: 'img/astrakit.png',
 
   // Set the production url of your site here
