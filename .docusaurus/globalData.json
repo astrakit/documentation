@@ -86,6 +86,16 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "showcase/gifs",
+              "path": "/docs/showcase/gifs",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "showcase/images",
+              "path": "/docs/showcase/images",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "/category/security",
               "path": "/docs/category/security",
               "sidebar": "tutorialSidebar"
@@ -124,6 +134,11 @@
               "id": "/category/your-account",
               "path": "/docs/category/your-account",
               "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/showcase",
+              "path": "/docs/category/showcase",
+              "sidebar": "tutorialSidebar"
             }
           ],
           "draftIds": [],
@@ -143,8 +158,8 @@
   "docusaurus-lunr-search": {
     "default": {
       "fileNames": {
-        "searchDoc": "search-doc-1742074974166.json",
-        "lunrIndex": "lunr-index-1742074974166.json"
+        "searchDoc": "search-doc-1742110715130.json",
+        "lunrIndex": "lunr-index-1742110715130.json"
       }
     }
   }

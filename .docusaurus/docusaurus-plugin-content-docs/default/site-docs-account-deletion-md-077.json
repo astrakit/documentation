@@ -22,5 +22,9 @@
   "previous": {
     "title": "Your account at Astrakit",
     "permalink": "/docs/account/information"
+  },
+  "next": {
+    "title": "Showcase",
+    "permalink": "/docs/category/showcase"
   }
 }

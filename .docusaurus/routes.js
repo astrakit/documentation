@@ -54,15 +54,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '6d1'),
+    component: ComponentCreator('/docs', '745'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', 'f6a'),
+        component: ComponentCreator('/docs', '8e7'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', 'dae'),
+            component: ComponentCreator('/docs', 'fa2'),
             routes: [
               {
                 path: '/docs/account/deletion',
@@ -115,6 +115,12 @@ export default [
               {
                 path: '/docs/category/security',
                 component: ComponentCreator('/docs/category/security', 'f9e'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/category/showcase',
+                component: ComponentCreator('/docs/category/showcase', 'b40'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -199,6 +205,18 @@ export default [
               {
                 path: '/docs/security/report',
                 component: ComponentCreator('/docs/security/report', 'd4e'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/showcase/gifs',
+                component: ComponentCreator('/docs/showcase/gifs', '790'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/showcase/images',
+                component: ComponentCreator('/docs/showcase/images', '4c5'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }

@@ -1,0 +1,8 @@
+{
+  "label": "Showcase",
+  "position": 99,
+  "link": {
+    "type": "generated-index",
+    "description": "Look at different showcases of the app."
+  }
+}

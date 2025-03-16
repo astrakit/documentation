@@ -1,0 +1,24 @@
+{
+  "id": "showcase/images",
+  "title": "Astrakit images",
+  "description": "Images to showcase the app.",
+  "source": "@site/docs/showcase/images.md",
+  "sourceDirName": "showcase",
+  "slug": "/showcase/images",
+  "permalink": "/docs/showcase/images",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/showcase/images.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "description": "Images to showcase the app."
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Astrakit GIFs",
+    "permalink": "/docs/showcase/gifs"
+  }
+}

@@ -3,9 +3,11 @@ description: Information about your Astrakit account
 sidebar_position: 1
 ---
 # Your account at Astrakit
-> <IIcon icon="ic:round-warning" height="20" /> **Disclaimer**
-> 
-> This only counts for the officially hosted instance of Astrakit under api.astrakit.cc. **We are not responsible for any self-hosted systems!**
+:::warning
+
+**Warning!** this documentation only affects the backends officially hosted by Astrakit, self hosted backend can be modified!
+
+:::
 
 When you register for an account at Astrakit, you provide us with personal information such as your name, email address, and other contact details. We use this information to manage your account, provide customer support, and improve our services.
 
