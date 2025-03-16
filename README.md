@@ -29,4 +29,4 @@ To use Astrakit, follow these steps:
 We welcome contributions! Please read our [contributing guidelines](CONTRIBUTING.md) to get started.
 
 ## License
-This project is licensed under the AGPL-3.0 License. See the [LICENSE](LICENSE.md) file for details.
+This project is licensed under the BSD-3-Clause license. See the [LICENSE](LICENSE.md) file for details.
