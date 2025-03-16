@@ -4,7 +4,11 @@ sidebar_position: 1
 
 # Getting Started
 Let's discover **Astrakit in less than 5 minutes**. You'll learn how to set up an account and clients, as well as how to ensure your data remains safe. :)
+:::note
 
+This guide will **help you with the first steps of using Astrakit** and how to set up your first account.
+
+:::
 ## Creating an Account
 When launching the app for the first time, you'll be prompted to either **log in or register**. Just press the register option and let the app guide you through the registration process.
 

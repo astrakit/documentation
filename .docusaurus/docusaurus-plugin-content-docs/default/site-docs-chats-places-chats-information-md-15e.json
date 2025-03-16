@@ -16,13 +16,13 @@
   "frontMatter": {
     "description": "Learn more about places and what they even are!"
   },
-  "sidebar": "tutorialSidebar",
+  "sidebar": "apiDocSidebar",
   "previous": {
     "title": "Places",
-    "permalink": "/docs/category/places"
+    "permalink": "/docs/category/places-2"
   },
   "next": {
     "title": "Legal matters",
-    "permalink": "/docs/category/legal-matters"
+    "permalink": "/docs/category/legal-matters-2"
   }
 }

@@ -1,0 +1,21 @@
+{
+  "id": "api/introduction",
+  "title": "Introduction",
+  "description": "Please note that as someone who uses our public api, you are subject to a rate limit! You can change your API restrictions by getting an API token by asking our support.",
+  "source": "@site/docs/api/introduction.md",
+  "sourceDirName": "api",
+  "slug": "/api/introduction",
+  "permalink": "/docs/api/introduction",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/astrakit/documentation/tree/main/packages/create-docusaurus/templates/shared/docs/api/introduction.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "apiDocSidebar"
+}

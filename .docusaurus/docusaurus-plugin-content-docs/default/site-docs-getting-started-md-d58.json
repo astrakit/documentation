@@ -17,9 +17,9 @@
   "frontMatter": {
     "sidebar_position": 1
   },
-  "sidebar": "tutorialSidebar",
+  "sidebar": "apiDocSidebar",
   "next": {
     "title": "Security",
-    "permalink": "/docs/category/security"
+    "permalink": "/docs/category/security-2"
   }
 }

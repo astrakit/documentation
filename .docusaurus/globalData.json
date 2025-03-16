@@ -8,145 +8,162 @@
           "label": "Next",
           "isLast": true,
           "path": "/docs",
-          "mainDocId": "getting-started",
+          "mainDocId": "user/getting-started",
           "docs": [
             {
-              "id": "account/deletion",
-              "path": "/docs/account/deletion",
-              "sidebar": "tutorialSidebar"
+              "id": "api/introduction",
+              "path": "/docs/api/introduction",
+              "sidebar": "apiDocSidebar"
             },
             {
-              "id": "account/information",
-              "path": "/docs/account/information",
-              "sidebar": "tutorialSidebar"
+              "id": "policies/gdpr",
+              "path": "/docs/policies/gdpr",
+              "sidebar": "policyDocSidebar"
             },
             {
-              "id": "chats/group-chats/information",
-              "path": "/docs/chats/group-chats/information",
-              "sidebar": "tutorialSidebar"
+              "id": "policies/privacy",
+              "path": "/docs/policies/privacy",
+              "sidebar": "policyDocSidebar"
             },
             {
-              "id": "chats/places-chats/information",
-              "path": "/docs/chats/places-chats/information",
-              "sidebar": "tutorialSidebar"
+              "id": "policies/securityrep",
+              "path": "/docs/policies/securityrep",
+              "sidebar": "policyDocSidebar"
             },
             {
-              "id": "chats/private-chats/information",
-              "path": "/docs/chats/private-chats/information",
-              "sidebar": "tutorialSidebar"
+              "id": "policies/tos",
+              "path": "/docs/policies/tos",
+              "sidebar": "policyDocSidebar"
             },
             {
-              "id": "getting-started",
-              "path": "/docs/getting-started",
-              "sidebar": "tutorialSidebar"
+              "id": "user/account/deletion",
+              "path": "/docs/user/account/deletion",
+              "sidebar": "userDocSidebar"
             },
             {
-              "id": "issues/err001",
-              "path": "/docs/issues/err001",
-              "sidebar": "tutorialSidebar"
+              "id": "user/account/information",
+              "path": "/docs/user/account/information",
+              "sidebar": "userDocSidebar"
             },
             {
-              "id": "issues/err002",
-              "path": "/docs/issues/err002",
-              "sidebar": "tutorialSidebar"
+              "id": "user/chats/group-chats/information",
+              "path": "/docs/user/chats/group-chats/information",
+              "sidebar": "userDocSidebar"
             },
             {
-              "id": "issues/err003",
-              "path": "/docs/issues/err003",
-              "sidebar": "tutorialSidebar"
+              "id": "user/chats/places-chats/information",
+              "path": "/docs/user/chats/places-chats/information",
+              "sidebar": "userDocSidebar"
             },
             {
-              "id": "issues/err004",
-              "path": "/docs/issues/err004",
-              "sidebar": "tutorialSidebar"
+              "id": "user/chats/private-chats/information",
+              "path": "/docs/user/chats/private-chats/information",
+              "sidebar": "userDocSidebar"
             },
             {
-              "id": "legal/privacy",
-              "path": "/docs/legal/privacy",
-              "sidebar": "tutorialSidebar"
+              "id": "user/getting-started",
+              "path": "/docs/user/getting-started",
+              "sidebar": "userDocSidebar"
             },
             {
-              "id": "legal/securityrep",
-              "path": "/docs/legal/securityrep",
-              "sidebar": "tutorialSidebar"
+              "id": "user/issues/err001",
+              "path": "/docs/user/issues/err001",
+              "sidebar": "userDocSidebar"
             },
             {
-              "id": "legal/tos",
-              "path": "/docs/legal/tos",
-              "sidebar": "tutorialSidebar"
+              "id": "user/issues/err002",
+              "path": "/docs/user/issues/err002",
+              "sidebar": "userDocSidebar"
             },
             {
-              "id": "security/information",
-              "path": "/docs/security/information",
-              "sidebar": "tutorialSidebar"
+              "id": "user/issues/err003",
+              "path": "/docs/user/issues/err003",
+              "sidebar": "userDocSidebar"
             },
             {
-              "id": "security/report",
-              "path": "/docs/security/report",
-              "sidebar": "tutorialSidebar"
+              "id": "user/issues/err004",
+              "path": "/docs/user/issues/err004",
+              "sidebar": "userDocSidebar"
             },
             {
-              "id": "showcase/gifs",
-              "path": "/docs/showcase/gifs",
-              "sidebar": "tutorialSidebar"
+              "id": "user/security/information",
+              "path": "/docs/user/security/information",
+              "sidebar": "userDocSidebar"
             },
             {
-              "id": "showcase/images",
-              "path": "/docs/showcase/images",
-              "sidebar": "tutorialSidebar"
+              "id": "user/security/report",
+              "path": "/docs/user/security/report",
+              "sidebar": "userDocSidebar"
+            },
+            {
+              "id": "user/showcase/gifs",
+              "path": "/docs/user/showcase/gifs",
+              "sidebar": "userDocSidebar"
+            },
+            {
+              "id": "user/showcase/images",
+              "path": "/docs/user/showcase/images",
+              "sidebar": "userDocSidebar"
             },
             {
               "id": "/category/security",
               "path": "/docs/category/security",
-              "sidebar": "tutorialSidebar"
+              "sidebar": "userDocSidebar"
             },
             {
               "id": "/category/chats",
               "path": "/docs/category/chats",
-              "sidebar": "tutorialSidebar"
+              "sidebar": "userDocSidebar"
             },
             {
               "id": "/category/private-chats",
               "path": "/docs/category/private-chats",
-              "sidebar": "tutorialSidebar"
+              "sidebar": "userDocSidebar"
             },
             {
               "id": "/category/groups-chats",
               "path": "/docs/category/groups-chats",
-              "sidebar": "tutorialSidebar"
+              "sidebar": "userDocSidebar"
             },
             {
               "id": "/category/places",
               "path": "/docs/category/places",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "/category/legal-matters",
-              "path": "/docs/category/legal-matters",
-              "sidebar": "tutorialSidebar"
+              "sidebar": "userDocSidebar"
             },
             {
               "id": "/category/issues",
               "path": "/docs/category/issues",
-              "sidebar": "tutorialSidebar"
+              "sidebar": "userDocSidebar"
             },
             {
               "id": "/category/your-account",
               "path": "/docs/category/your-account",
-              "sidebar": "tutorialSidebar"
+              "sidebar": "userDocSidebar"
             },
             {
               "id": "/category/showcase",
               "path": "/docs/category/showcase",
-              "sidebar": "tutorialSidebar"
+              "sidebar": "userDocSidebar"
             }
           ],
           "draftIds": [],
           "sidebars": {
-            "tutorialSidebar": {
+            "userDocSidebar": {
               "link": {
-                "path": "/docs/getting-started",
-                "label": "getting-started"
+                "path": "/docs/user/getting-started",
+                "label": "user/getting-started"
+              }
+            },
+            "apiDocSidebar": {
+              "link": {
+                "path": "/docs/api/introduction",
+                "label": "api/introduction"
+              }
+            },
+            "policyDocSidebar": {
+              "link": {
+                "path": "/docs/policies/privacy",
+                "label": "Privacy policy"
               }
             }
           }
@@ -158,8 +175,8 @@
   "docusaurus-lunr-search": {
     "default": {
       "fileNames": {
-        "searchDoc": "search-doc-1742134517059.json",
-        "lunrIndex": "lunr-index-1742134517059.json"
+        "searchDoc": "search-doc-1742158242627.json",
+        "lunrIndex": "lunr-index-1742158242627.json"
       }
     }
   }

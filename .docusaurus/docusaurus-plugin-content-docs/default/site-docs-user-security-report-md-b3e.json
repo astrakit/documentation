@@ -1,0 +1,28 @@
+{
+  "id": "user/security/report",
+  "title": "Report a security issue",
+  "description": "Report a security Issue in Astrakit.",
+  "source": "@site/docs/user/security/report.md",
+  "sourceDirName": "user/security",
+  "slug": "/user/security/report",
+  "permalink": "/docs/user/security/report",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/astrakit/documentation/tree/main/packages/create-docusaurus/templates/shared/docs/user/security/report.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "description": "Report a security Issue in Astrakit."
+  },
+  "sidebar": "userDocSidebar",
+  "previous": {
+    "title": "How does Astrakit's security work?",
+    "permalink": "/docs/user/security/information"
+  },
+  "next": {
+    "title": "Chats",
+    "permalink": "/docs/category/chats"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "user/chats/places-chats/information",
+  "title": "What are places?",
+  "description": "Learn more about places and what they even are!",
+  "source": "@site/docs/user/chats/places-chats/information.md",
+  "sourceDirName": "user/chats/places-chats",
+  "slug": "/user/chats/places-chats/information",
+  "permalink": "/docs/user/chats/places-chats/information",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/astrakit/documentation/tree/main/packages/create-docusaurus/templates/shared/docs/user/chats/places-chats/information.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "description": "Learn more about places and what they even are!"
+  },
+  "sidebar": "userDocSidebar",
+  "previous": {
+    "title": "Places",
+    "permalink": "/docs/category/places"
+  },
+  "next": {
+    "title": "Issues",
+    "permalink": "/docs/category/issues"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "policies/securityrep",
+  "title": "Security notice (15/03/2025)",
+  "description": "Astrakit's security notice",
+  "source": "@site/docs/policies/securityrep.md",
+  "sourceDirName": "policies",
+  "slug": "/policies/securityrep",
+  "permalink": "/docs/policies/securityrep",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/astrakit/documentation/tree/main/packages/create-docusaurus/templates/shared/docs/policies/securityrep.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "description": "Astrakit's security notice",
+    "sidebar_position": 3,
+    "sidebar_label": "Security notice"
+  },
+  "sidebar": "policyDocSidebar",
+  "previous": {
+    "title": "Terms of Service",
+    "permalink": "/docs/policies/tos"
+  },
+  "next": {
+    "title": "GDPR Compliance",
+    "permalink": "/docs/policies/gdpr"
+  }
+}

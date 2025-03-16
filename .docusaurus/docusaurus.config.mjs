@@ -5,7 +5,7 @@
  */
 export default {
   "title": "Astrakit",
-  "tagline": "Discover the future of chatting",
+  "tagline": "Astrakit is a free and open-source chat app designed for seamless communication.",
   "favicon": "img/astrakit.png",
   "url": "https://docs.astrakit.cc",
   "baseUrl": "/",
@@ -71,14 +71,21 @@ export default {
       "items": [
         {
           "type": "docSidebar",
-          "sidebarId": "tutorialSidebar",
+          "sidebarId": "userDocSidebar",
           "position": "left",
-          "label": "Documentation"
+          "label": "User documentation"
         },
         {
-          "to": "/docs/security/report",
-          "label": "Security Report",
-          "position": "left"
+          "type": "docSidebar",
+          "sidebarId": "apiDocSidebar",
+          "position": "left",
+          "label": "API documentation"
+        },
+        {
+          "type": "docSidebar",
+          "sidebarId": "policyDocSidebar",
+          "position": "left",
+          "label": "Policies"
         },
         {
           "href": "https://astrakit.cc/donate",
@@ -101,7 +108,7 @@ export default {
           "items": [
             {
               "label": "Tutorial",
-              "to": "/docs/getting-started"
+              "to": "/docs/user/getting-started"
             }
           ]
         },
@@ -126,6 +133,10 @@ export default {
           "title": "More",
           "items": [
             {
+              "label": "Network status",
+              "href": "https://status.astrakit.cc"
+            },
+            {
               "label": "GitHub - docs",
               "href": "https://github.com/astrakit/documentation"
             },
@@ -140,20 +151,24 @@ export default {
           "items": [
             {
               "label": "Privacy Policy",
-              "href": "/docs/legal/privacy"
+              "href": "/docs/policies/privacy"
             },
             {
               "label": "Terms Of Service",
-              "href": "/docs/legal/tos"
+              "href": "/docs/policies/tos"
             },
             {
               "label": "Security notice",
-              "href": "/docs/legal/securityrep"
+              "href": "/docs/policies/securityrep"
+            },
+            {
+              "label": "GDPR Compliance",
+              "href": "/docs/policies/gdpr"
             }
           ]
         }
       ],
-      "copyright": "Copyright © 2025 Astrakit."
+      "copyright": "Copyright © 2025 Astrakit"
     },
     "prism": {
       "theme": {

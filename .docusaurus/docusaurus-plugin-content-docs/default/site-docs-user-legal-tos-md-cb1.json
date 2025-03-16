@@ -1,0 +1,31 @@
+{
+  "id": "user/legal/tos",
+  "title": "Terms of Service (15/03/2025)",
+  "description": "Astrakit's TOS",
+  "source": "@site/docs/user/legal/tos.md",
+  "sourceDirName": "user/legal",
+  "slug": "/user/legal/tos",
+  "permalink": "/docs/user/legal/tos",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/astrakit/documentation/tree/main/packages/create-docusaurus/templates/shared/docs/user/legal/tos.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "description": "Astrakit's TOS",
+    "sidebar_position": 2,
+    "sidebar_label": "Terms of Service"
+  },
+  "sidebar": "userDocSidebar",
+  "previous": {
+    "title": "Legal matters",
+    "permalink": "/docs/category/legal-matters"
+  },
+  "next": {
+    "title": "Issues",
+    "permalink": "/docs/category/issues"
+  }
+}

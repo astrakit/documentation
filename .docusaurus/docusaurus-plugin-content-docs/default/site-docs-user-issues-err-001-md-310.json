@@ -1,0 +1,28 @@
+{
+  "id": "user/issues/err001",
+  "title": "ERR001 (Unable to connect)",
+  "description": "The client is unable to connect to the backend.",
+  "source": "@site/docs/user/issues/err001.md",
+  "sourceDirName": "user/issues",
+  "slug": "/user/issues/err001",
+  "permalink": "/docs/user/issues/err001",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/astrakit/documentation/tree/main/packages/create-docusaurus/templates/shared/docs/user/issues/err001.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "description": "The client is unable to connect to the backend."
+  },
+  "sidebar": "userDocSidebar",
+  "previous": {
+    "title": "Issues",
+    "permalink": "/docs/category/issues"
+  },
+  "next": {
+    "title": "ERR002 (Unencrypted)",
+    "permalink": "/docs/user/issues/err002"
+  }
+}

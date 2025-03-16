@@ -16,13 +16,13 @@
   "frontMatter": {
     "description": "Learn more about private chats and what they even are!"
   },
-  "sidebar": "tutorialSidebar",
+  "sidebar": "apiDocSidebar",
   "previous": {
     "title": "Private chats",
-    "permalink": "/docs/category/private-chats"
+    "permalink": "/docs/category/private-chats-2"
   },
   "next": {
     "title": "Groups chats",
-    "permalink": "/docs/category/groups-chats"
+    "permalink": "/docs/category/groups-chats-2"
   }
 }

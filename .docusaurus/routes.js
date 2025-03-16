@@ -54,171 +54,177 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '745'),
+    component: ComponentCreator('/docs', 'd81'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '8e7'),
+        component: ComponentCreator('/docs', '177'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', 'fa2'),
+            component: ComponentCreator('/docs', 'fbf'),
             routes: [
               {
-                path: '/docs/account/deletion',
-                component: ComponentCreator('/docs/account/deletion', '0d5'),
+                path: '/docs/api/introduction',
+                component: ComponentCreator('/docs/api/introduction', '6c8'),
                 exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/account/information',
-                component: ComponentCreator('/docs/account/information', '8b1'),
-                exact: true,
-                sidebar: "tutorialSidebar"
+                sidebar: "apiDocSidebar"
               },
               {
                 path: '/docs/category/chats',
-                component: ComponentCreator('/docs/category/chats', '1f9'),
+                component: ComponentCreator('/docs/category/chats', '18e'),
                 exact: true,
-                sidebar: "tutorialSidebar"
+                sidebar: "userDocSidebar"
               },
               {
                 path: '/docs/category/groups-chats',
-                component: ComponentCreator('/docs/category/groups-chats', '17d'),
+                component: ComponentCreator('/docs/category/groups-chats', '624'),
                 exact: true,
-                sidebar: "tutorialSidebar"
+                sidebar: "userDocSidebar"
               },
               {
                 path: '/docs/category/issues',
-                component: ComponentCreator('/docs/category/issues', 'aac'),
+                component: ComponentCreator('/docs/category/issues', '681'),
                 exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/category/legal-matters',
-                component: ComponentCreator('/docs/category/legal-matters', '1ed'),
-                exact: true,
-                sidebar: "tutorialSidebar"
+                sidebar: "userDocSidebar"
               },
               {
                 path: '/docs/category/places',
-                component: ComponentCreator('/docs/category/places', 'e05'),
+                component: ComponentCreator('/docs/category/places', '722'),
                 exact: true,
-                sidebar: "tutorialSidebar"
+                sidebar: "userDocSidebar"
               },
               {
                 path: '/docs/category/private-chats',
-                component: ComponentCreator('/docs/category/private-chats', '951'),
+                component: ComponentCreator('/docs/category/private-chats', '4cc'),
                 exact: true,
-                sidebar: "tutorialSidebar"
+                sidebar: "userDocSidebar"
               },
               {
                 path: '/docs/category/security',
-                component: ComponentCreator('/docs/category/security', 'f9e'),
+                component: ComponentCreator('/docs/category/security', 'b64'),
                 exact: true,
-                sidebar: "tutorialSidebar"
+                sidebar: "userDocSidebar"
               },
               {
                 path: '/docs/category/showcase',
-                component: ComponentCreator('/docs/category/showcase', 'b40'),
+                component: ComponentCreator('/docs/category/showcase', '209'),
                 exact: true,
-                sidebar: "tutorialSidebar"
+                sidebar: "userDocSidebar"
               },
               {
                 path: '/docs/category/your-account',
-                component: ComponentCreator('/docs/category/your-account', '805'),
+                component: ComponentCreator('/docs/category/your-account', 'f11'),
                 exact: true,
-                sidebar: "tutorialSidebar"
+                sidebar: "userDocSidebar"
               },
               {
-                path: '/docs/chats/group-chats/information',
-                component: ComponentCreator('/docs/chats/group-chats/information', '255'),
+                path: '/docs/policies/gdpr',
+                component: ComponentCreator('/docs/policies/gdpr', '48b'),
                 exact: true,
-                sidebar: "tutorialSidebar"
+                sidebar: "policyDocSidebar"
               },
               {
-                path: '/docs/chats/places-chats/information',
-                component: ComponentCreator('/docs/chats/places-chats/information', '49f'),
+                path: '/docs/policies/privacy',
+                component: ComponentCreator('/docs/policies/privacy', 'fde'),
                 exact: true,
-                sidebar: "tutorialSidebar"
+                sidebar: "policyDocSidebar"
               },
               {
-                path: '/docs/chats/private-chats/information',
-                component: ComponentCreator('/docs/chats/private-chats/information', '0bb'),
+                path: '/docs/policies/securityrep',
+                component: ComponentCreator('/docs/policies/securityrep', '4f0'),
                 exact: true,
-                sidebar: "tutorialSidebar"
+                sidebar: "policyDocSidebar"
               },
               {
-                path: '/docs/getting-started',
-                component: ComponentCreator('/docs/getting-started', '524'),
+                path: '/docs/policies/tos',
+                component: ComponentCreator('/docs/policies/tos', '509'),
                 exact: true,
-                sidebar: "tutorialSidebar"
+                sidebar: "policyDocSidebar"
               },
               {
-                path: '/docs/issues/err001',
-                component: ComponentCreator('/docs/issues/err001', '79b'),
+                path: '/docs/user/account/deletion',
+                component: ComponentCreator('/docs/user/account/deletion', '2fb'),
                 exact: true,
-                sidebar: "tutorialSidebar"
+                sidebar: "userDocSidebar"
               },
               {
-                path: '/docs/issues/err002',
-                component: ComponentCreator('/docs/issues/err002', '7ff'),
+                path: '/docs/user/account/information',
+                component: ComponentCreator('/docs/user/account/information', 'c27'),
                 exact: true,
-                sidebar: "tutorialSidebar"
+                sidebar: "userDocSidebar"
               },
               {
-                path: '/docs/issues/err003',
-                component: ComponentCreator('/docs/issues/err003', '533'),
+                path: '/docs/user/chats/group-chats/information',
+                component: ComponentCreator('/docs/user/chats/group-chats/information', '70e'),
                 exact: true,
-                sidebar: "tutorialSidebar"
+                sidebar: "userDocSidebar"
               },
               {
-                path: '/docs/issues/err004',
-                component: ComponentCreator('/docs/issues/err004', 'cbb'),
+                path: '/docs/user/chats/places-chats/information',
+                component: ComponentCreator('/docs/user/chats/places-chats/information', 'a06'),
                 exact: true,
-                sidebar: "tutorialSidebar"
+                sidebar: "userDocSidebar"
               },
               {
-                path: '/docs/legal/privacy',
-                component: ComponentCreator('/docs/legal/privacy', '683'),
+                path: '/docs/user/chats/private-chats/information',
+                component: ComponentCreator('/docs/user/chats/private-chats/information', 'cf4'),
                 exact: true,
-                sidebar: "tutorialSidebar"
+                sidebar: "userDocSidebar"
               },
               {
-                path: '/docs/legal/securityrep',
-                component: ComponentCreator('/docs/legal/securityrep', '0f3'),
+                path: '/docs/user/getting-started',
+                component: ComponentCreator('/docs/user/getting-started', '986'),
                 exact: true,
-                sidebar: "tutorialSidebar"
+                sidebar: "userDocSidebar"
               },
               {
-                path: '/docs/legal/tos',
-                component: ComponentCreator('/docs/legal/tos', 'c29'),
+                path: '/docs/user/issues/err001',
+                component: ComponentCreator('/docs/user/issues/err001', '96f'),
                 exact: true,
-                sidebar: "tutorialSidebar"
+                sidebar: "userDocSidebar"
               },
               {
-                path: '/docs/security/information',
-                component: ComponentCreator('/docs/security/information', '6c8'),
+                path: '/docs/user/issues/err002',
+                component: ComponentCreator('/docs/user/issues/err002', 'd55'),
                 exact: true,
-                sidebar: "tutorialSidebar"
+                sidebar: "userDocSidebar"
               },
               {
-                path: '/docs/security/report',
-                component: ComponentCreator('/docs/security/report', 'd4e'),
+                path: '/docs/user/issues/err003',
+                component: ComponentCreator('/docs/user/issues/err003', 'c6e'),
                 exact: true,
-                sidebar: "tutorialSidebar"
+                sidebar: "userDocSidebar"
               },
               {
-                path: '/docs/showcase/gifs',
-                component: ComponentCreator('/docs/showcase/gifs', '790'),
+                path: '/docs/user/issues/err004',
+                component: ComponentCreator('/docs/user/issues/err004', '5c8'),
                 exact: true,
-                sidebar: "tutorialSidebar"
+                sidebar: "userDocSidebar"
               },
               {
-                path: '/docs/showcase/images',
-                component: ComponentCreator('/docs/showcase/images', '4c5'),
+                path: '/docs/user/security/information',
+                component: ComponentCreator('/docs/user/security/information', '6ab'),
                 exact: true,
-                sidebar: "tutorialSidebar"
+                sidebar: "userDocSidebar"
+              },
+              {
+                path: '/docs/user/security/report',
+                component: ComponentCreator('/docs/user/security/report', '3f8'),
+                exact: true,
+                sidebar: "userDocSidebar"
+              },
+              {
+                path: '/docs/user/showcase/gifs',
+                component: ComponentCreator('/docs/user/showcase/gifs', 'ce0'),
+                exact: true,
+                sidebar: "userDocSidebar"
+              },
+              {
+                path: '/docs/user/showcase/images',
+                component: ComponentCreator('/docs/user/showcase/images', '5d3'),
+                exact: true,
+                sidebar: "userDocSidebar"
               }
             ]
           }

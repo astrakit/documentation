@@ -16,13 +16,13 @@
   "frontMatter": {
     "description": "The user account has been blocked by the system."
   },
-  "sidebar": "tutorialSidebar",
+  "sidebar": "apiDocSidebar",
   "previous": {
     "title": "ERR003 (High ping)",
     "permalink": "/docs/issues/err003"
   },
   "next": {
-    "title": "Your account",
-    "permalink": "/docs/category/your-account"
+    "title": "Showcase",
+    "permalink": "/docs/category/showcase-2"
   }
 }

@@ -94,14 +94,21 @@ const config = {
         items: [
           {
             type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
+            sidebarId: 'userDocSidebar',
             position: 'left',
-            label: 'Documentation',
+            label: 'User documentation',
           },
           {
-            to: '/docs/security/report',
-            label: 'Security Report',
+            type: 'docSidebar',
+            sidebarId: 'apiDocSidebar',
             position: 'left',
+            label: 'API documentation',
+          },
+          {
+            type: 'docSidebar',
+            sidebarId: 'policyDocSidebar',
+            position: 'left',
+            label: 'Policies',
           },
           {
             href: 'https://astrakit.cc/donate',
@@ -123,7 +130,7 @@ const config = {
             items: [
               {
                 label: 'Tutorial',
-                to: '/docs/getting-started',
+                to: '/docs/user/getting-started',
               },
             ],
           },
@@ -166,20 +173,24 @@ const config = {
             items: [
               {
                 label: 'Privacy Policy',
-                href: '/docs/legal/privacy',
+                href: '/docs/policies/privacy',
               },
               {
                 label: 'Terms Of Service',
-                href: '/docs/legal/tos',
+                href: '/docs/policies/tos',
               },
               {
                 label: 'Security notice',
-                href: '/docs/legal/securityrep',
+                href: '/docs/policies/securityrep',
+              },
+              {
+                label: 'GDPR Compliance',
+                href: '/docs/policies/gdpr',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Astrakit.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Astrakit`,
       },
       prism: {
         theme: prismThemes.github,

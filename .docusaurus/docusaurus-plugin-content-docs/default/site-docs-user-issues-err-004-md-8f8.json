@@ -1,0 +1,28 @@
+{
+  "id": "user/issues/err004",
+  "title": "ERR004 (Account Blocked)",
+  "description": "The user account has been blocked by the system.",
+  "source": "@site/docs/user/issues/err004.md",
+  "sourceDirName": "user/issues",
+  "slug": "/user/issues/err004",
+  "permalink": "/docs/user/issues/err004",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/astrakit/documentation/tree/main/packages/create-docusaurus/templates/shared/docs/user/issues/err004.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "description": "The user account has been blocked by the system."
+  },
+  "sidebar": "userDocSidebar",
+  "previous": {
+    "title": "ERR003 (High ping)",
+    "permalink": "/docs/user/issues/err003"
+  },
+  "next": {
+    "title": "Your account",
+    "permalink": "/docs/category/your-account"
+  }
+}

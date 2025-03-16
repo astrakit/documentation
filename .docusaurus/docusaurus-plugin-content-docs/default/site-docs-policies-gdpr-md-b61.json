@@ -1,0 +1,27 @@
+{
+  "id": "policies/gdpr",
+  "title": "GDPR Compliance (15/03/2025)",
+  "description": "Astrakit's GDPR Compliance",
+  "source": "@site/docs/policies/gdpr.md",
+  "sourceDirName": "policies",
+  "slug": "/policies/gdpr",
+  "permalink": "/docs/policies/gdpr",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/astrakit/documentation/tree/main/packages/create-docusaurus/templates/shared/docs/policies/gdpr.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "description": "Astrakit's GDPR Compliance",
+    "sidebar_position": 4,
+    "sidebar_label": "GDPR Compliance"
+  },
+  "sidebar": "policyDocSidebar",
+  "previous": {
+    "title": "Security notice",
+    "permalink": "/docs/policies/securityrep"
+  }
+}

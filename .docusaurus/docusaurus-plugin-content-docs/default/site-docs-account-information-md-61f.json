@@ -18,10 +18,10 @@
     "description": "Information about your Astrakit account",
     "sidebar_position": 1
   },
-  "sidebar": "tutorialSidebar",
+  "sidebar": "apiDocSidebar",
   "previous": {
     "title": "Your account",
-    "permalink": "/docs/category/your-account"
+    "permalink": "/docs/category/your-account-2"
   },
   "next": {
     "title": "Deleting your Account",

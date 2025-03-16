@@ -72,122 +72,126 @@
     },
     "content": "content---markdown-page-393-028"
   },
-  "/docs-745": {
+  "/docs-d81": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docsaba-d7c"
     }
   },
-  "/docs-8e7": {
+  "/docs-177": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---docs-005-788"
   },
-  "/docs-fa2": {
+  "/docs-fbf": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
-  "/docs/account/deletion-0d5": {
+  "/docs/api/introduction-6c8": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-account-deletion-077-d94"
+    "content": "content---docs-api-introductiona-98-3d9"
   },
-  "/docs/account/information-8b1": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-account-information-61-f-a94"
-  },
-  "/docs/category/chats-1f9": {
+  "/docs/category/chats-18e": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "__props": "__props---docs-category-chatse-46-a85"
   },
-  "/docs/category/groups-chats-17d": {
+  "/docs/category/groups-chats-624": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "__props": "__props---docs-category-groups-chats-5-ff-e33"
   },
-  "/docs/category/issues-aac": {
+  "/docs/category/issues-681": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "__props": "__props---docs-category-issues-953-28d"
   },
-  "/docs/category/legal-matters-1ed": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---docs-category-legal-matters-85-f-130"
-  },
-  "/docs/category/places-e05": {
+  "/docs/category/places-722": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "__props": "__props---docs-category-placescd-2-d3f"
   },
-  "/docs/category/private-chats-951": {
+  "/docs/category/private-chats-4cc": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "__props": "__props---docs-category-private-chatsb-8-c-646"
   },
-  "/docs/category/security-f9e": {
+  "/docs/category/security-b64": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "__props": "__props---docs-category-security-6-a-3-b20"
   },
-  "/docs/category/showcase-b40": {
+  "/docs/category/showcase-209": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "__props": "__props---docs-category-showcase-2-fd-c62"
   },
-  "/docs/category/your-account-805": {
+  "/docs/category/your-account-f11": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "__props": "__props---docs-category-your-account-730-dc4"
   },
-  "/docs/chats/group-chats/information-255": {
+  "/docs/policies/gdpr-48b": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-chats-group-chats-informationf-82-13c"
+    "content": "content---docs-policies-gdprb-61-e5b"
   },
-  "/docs/chats/places-chats/information-49f": {
+  "/docs/policies/privacy-fde": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-chats-places-chats-information-15-e-e01"
+    "content": "content---docs-policies-privacyb-13-afd"
   },
-  "/docs/chats/private-chats/information-0bb": {
+  "/docs/policies/securityrep-4f0": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-chats-private-chats-informationdb-9-73c"
+    "content": "content---docs-policies-securityrep-9-b-2-2a7"
   },
-  "/docs/getting-started-524": {
+  "/docs/policies/tos-509": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-getting-startedd-58-f94"
+    "content": "content---docs-policies-tos-35-e-98a"
   },
-  "/docs/issues/err001-79b": {
+  "/docs/user/account/deletion-2fb": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-issues-err-0013-f-5-270"
+    "content": "content---docs-user-account-deletion-905-c21"
   },
-  "/docs/issues/err002-7ff": {
+  "/docs/user/account/information-c27": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-issues-err-0021-c-9-75c"
+    "content": "content---docs-user-account-information-161-489"
   },
-  "/docs/issues/err003-533": {
+  "/docs/user/chats/group-chats/information-70e": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-issues-err-0035-d-8-3a2"
+    "content": "content---docs-user-chats-group-chats-information-2-be-9a0"
   },
-  "/docs/issues/err004-cbb": {
+  "/docs/user/chats/places-chats/information-a06": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-issues-err-00448-d-d4a"
+    "content": "content---docs-user-chats-places-chats-information-747-66a"
   },
-  "/docs/legal/privacy-683": {
+  "/docs/user/chats/private-chats/information-cf4": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-legal-privacyd-2-c-e88"
+    "content": "content---docs-user-chats-private-chats-information-78-b-196"
   },
-  "/docs/legal/securityrep-0f3": {
+  "/docs/user/getting-started-986": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-legal-securityrep-4-ba-2d1"
+    "content": "content---docs-user-getting-started-4-d-8-065"
   },
-  "/docs/legal/tos-c29": {
+  "/docs/user/issues/err001-96f": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-legal-tos-740-488"
+    "content": "content---docs-user-issues-err-001310-09f"
   },
-  "/docs/security/information-6c8": {
+  "/docs/user/issues/err002-d55": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-security-information-521-03e"
+    "content": "content---docs-user-issues-err-002-c-16-878"
   },
-  "/docs/security/report-d4e": {
+  "/docs/user/issues/err003-c6e": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-security-report-859-84e"
+    "content": "content---docs-user-issues-err-003-bc-9-7e1"
   },
-  "/docs/showcase/gifs-790": {
+  "/docs/user/issues/err004-5c8": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-showcase-gifs-762-9e9"
+    "content": "content---docs-user-issues-err-0048-f-8-b6f"
   },
-  "/docs/showcase/images-4c5": {
+  "/docs/user/security/information-6ab": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-showcase-images-564-a6e"
+    "content": "content---docs-user-security-information-06-f-29a"
+  },
+  "/docs/user/security/report-3f8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-user-security-reportb-3-e-dc9"
+  },
+  "/docs/user/showcase/gifs-ce0": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-user-showcase-gifs-8-d-7-8bb"
+  },
+  "/docs/user/showcase/images-5d3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-user-showcase-images-3-fd-c1d"
   },
   "/-2e1": {
     "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",

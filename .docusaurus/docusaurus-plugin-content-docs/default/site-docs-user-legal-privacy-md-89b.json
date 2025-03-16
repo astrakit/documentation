@@ -1,0 +1,31 @@
+{
+  "id": "user/legal/privacy",
+  "title": "Privacy policy (15/03/2025)",
+  "description": "Astrakit's privacy policy",
+  "source": "@site/docs/user/legal/privacy.md",
+  "sourceDirName": "user/legal",
+  "slug": "/user/legal/privacy",
+  "permalink": "/docs/user/legal/privacy",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/astrakit/documentation/tree/main/packages/create-docusaurus/templates/shared/docs/user/legal/privacy.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "description": "Astrakit's privacy policy",
+    "sidebar_position": 1,
+    "sidebar_label": "Privacy policy"
+  },
+  "sidebar": "userDocSidebar",
+  "previous": {
+    "title": "Legal matters",
+    "permalink": "/docs/category/legal-matters"
+  },
+  "next": {
+    "title": "Terms of Service",
+    "permalink": "/docs/user/legal/tos"
+  }
+}

@@ -16,10 +16,10 @@
   "frontMatter": {
     "description": "GIFs to showcase the app."
   },
-  "sidebar": "tutorialSidebar",
+  "sidebar": "apiDocSidebar",
   "previous": {
     "title": "Showcase",
-    "permalink": "/docs/category/showcase"
+    "permalink": "/docs/category/showcase-2"
   },
   "next": {
     "title": "Astrakit images",

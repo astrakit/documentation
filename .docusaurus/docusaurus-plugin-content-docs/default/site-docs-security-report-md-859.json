@@ -16,13 +16,13 @@
   "frontMatter": {
     "description": "Report a security Issue in Astrakit."
   },
-  "sidebar": "tutorialSidebar",
+  "sidebar": "apiDocSidebar",
   "previous": {
     "title": "How does Astrakit's security work?",
     "permalink": "/docs/security/information"
   },
   "next": {
     "title": "Chats",
-    "permalink": "/docs/category/chats"
+    "permalink": "/docs/category/chats-2"
   }
 }

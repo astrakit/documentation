@@ -16,10 +16,10 @@
   "frontMatter": {
     "description": "The client is unable to connect to the backend."
   },
-  "sidebar": "tutorialSidebar",
+  "sidebar": "apiDocSidebar",
   "previous": {
     "title": "Issues",
-    "permalink": "/docs/category/issues"
+    "permalink": "/docs/category/issues-2"
   },
   "next": {
     "title": "ERR002 (Unencrypted)",

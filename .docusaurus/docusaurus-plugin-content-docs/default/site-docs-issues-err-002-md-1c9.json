@@ -16,7 +16,7 @@
   "frontMatter": {
     "description": "The client wants to start an unencrypted connection."
   },
-  "sidebar": "tutorialSidebar",
+  "sidebar": "apiDocSidebar",
   "previous": {
     "title": "ERR001 (Unable to connect)",
     "permalink": "/docs/issues/err001"

@@ -16,13 +16,13 @@
   "frontMatter": {
     "description": "Learn more about group chats and what they even are!"
   },
-  "sidebar": "tutorialSidebar",
+  "sidebar": "apiDocSidebar",
   "previous": {
     "title": "Groups chats",
-    "permalink": "/docs/category/groups-chats"
+    "permalink": "/docs/category/groups-chats-2"
   },
   "next": {
     "title": "Places",
-    "permalink": "/docs/category/places"
+    "permalink": "/docs/category/places-2"
   }
 }

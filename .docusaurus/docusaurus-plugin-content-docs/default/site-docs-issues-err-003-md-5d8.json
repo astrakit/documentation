@@ -16,7 +16,7 @@
   "frontMatter": {
     "description": "The client has a high ping while connecting to the backend."
   },
-  "sidebar": "tutorialSidebar",
+  "sidebar": "apiDocSidebar",
   "previous": {
     "title": "ERR002 (Unencrypted)",
     "permalink": "/docs/issues/err002"

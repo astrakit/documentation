@@ -16,10 +16,10 @@
   "frontMatter": {
     "description": "Learn more about private chats and what they even are!"
   },
-  "sidebar": "tutorialSidebar",
+  "sidebar": "apiDocSidebar",
   "previous": {
     "title": "Security",
-    "permalink": "/docs/category/security"
+    "permalink": "/docs/category/security-2"
   },
   "next": {
     "title": "Report a security issue",

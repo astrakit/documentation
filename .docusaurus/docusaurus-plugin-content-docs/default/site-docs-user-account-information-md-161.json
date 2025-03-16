@@ -1,0 +1,30 @@
+{
+  "id": "user/account/information",
+  "title": "Your account at Astrakit",
+  "description": "Information about your Astrakit account",
+  "source": "@site/docs/user/account/information.md",
+  "sourceDirName": "user/account",
+  "slug": "/user/account/information",
+  "permalink": "/docs/user/account/information",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/astrakit/documentation/tree/main/packages/create-docusaurus/templates/shared/docs/user/account/information.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "description": "Information about your Astrakit account",
+    "sidebar_position": 1
+  },
+  "sidebar": "userDocSidebar",
+  "previous": {
+    "title": "Your account",
+    "permalink": "/docs/category/your-account"
+  },
+  "next": {
+    "title": "Deleting your Account",
+    "permalink": "/docs/user/account/deletion"
+  }
+}

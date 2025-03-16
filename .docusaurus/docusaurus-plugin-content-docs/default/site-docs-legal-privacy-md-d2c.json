@@ -19,10 +19,10 @@
     "sidebar_position": 1,
     "sidebar_label": "Privacy policy"
   },
-  "sidebar": "tutorialSidebar",
+  "sidebar": "apiDocSidebar",
   "previous": {
     "title": "Legal matters",
-    "permalink": "/docs/category/legal-matters"
+    "permalink": "/docs/category/legal-matters-2"
   },
   "next": {
     "title": "Terms of Service",
