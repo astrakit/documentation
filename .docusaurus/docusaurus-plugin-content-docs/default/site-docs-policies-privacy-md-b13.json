@@ -20,6 +20,10 @@
     "sidebar_label": "Privacy policy"
   },
   "sidebar": "policyDocSidebar",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/docs/policies/introduction"
+  },
   "next": {
     "title": "Terms of Service",
     "permalink": "/docs/policies/tos"

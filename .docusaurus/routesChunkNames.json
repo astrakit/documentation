@@ -72,17 +72,17 @@
     },
     "content": "content---markdown-page-393-028"
   },
-  "/docs-d81": {
+  "/docs-730": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docsaba-d7c"
     }
   },
-  "/docs-177": {
+  "/docs-73c": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---docs-005-788"
   },
-  "/docs-fbf": {
+  "/docs-e5a": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/docs/api/introduction-6c8": {
@@ -124,6 +124,10 @@
   "/docs/policies/gdpr-48b": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-policies-gdprb-61-e5b"
+  },
+  "/docs/policies/introduction-6e0": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-policies-introduction-0-cf-787"
   },
   "/docs/policies/privacy-fde": {
     "__comp": "__comp---theme-doc-item-178-a40",

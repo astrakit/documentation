@@ -21,6 +21,11 @@
               "sidebar": "policyDocSidebar"
             },
             {
+              "id": "policies/introduction",
+              "path": "/docs/policies/introduction",
+              "sidebar": "policyDocSidebar"
+            },
+            {
               "id": "policies/privacy",
               "path": "/docs/policies/privacy",
               "sidebar": "policyDocSidebar"
@@ -162,8 +167,8 @@
             },
             "policyDocSidebar": {
               "link": {
-                "path": "/docs/policies/privacy",
-                "label": "Privacy policy"
+                "path": "/docs/policies/introduction",
+                "label": "Introduction"
               }
             }
           }
@@ -175,8 +180,8 @@
   "docusaurus-lunr-search": {
     "default": {
       "fileNames": {
-        "searchDoc": "search-doc-1742158242627.json",
-        "lunrIndex": "lunr-index-1742158242627.json"
+        "searchDoc": "search-doc-1742239557627.json",
+        "lunrIndex": "lunr-index-1742239557627.json"
       }
     }
   }

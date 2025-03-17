@@ -54,15 +54,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'd81'),
+    component: ComponentCreator('/docs', '730'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '177'),
+        component: ComponentCreator('/docs', '73c'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', 'fbf'),
+            component: ComponentCreator('/docs', 'e5a'),
             routes: [
               {
                 path: '/docs/api/introduction',
@@ -121,6 +121,12 @@ export default [
               {
                 path: '/docs/policies/gdpr',
                 component: ComponentCreator('/docs/policies/gdpr', '48b'),
+                exact: true,
+                sidebar: "policyDocSidebar"
+              },
+              {
+                path: '/docs/policies/introduction',
+                component: ComponentCreator('/docs/policies/introduction', '6e0'),
                 exact: true,
                 sidebar: "policyDocSidebar"
               },

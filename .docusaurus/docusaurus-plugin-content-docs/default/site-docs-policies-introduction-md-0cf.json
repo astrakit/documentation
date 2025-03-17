@@ -1,0 +1,27 @@
+{
+  "id": "policies/introduction",
+  "title": "Policies Introduction",
+  "description": "Introduction to the different policies we have",
+  "source": "@site/docs/policies/introduction.md",
+  "sourceDirName": "policies",
+  "slug": "/policies/introduction",
+  "permalink": "/docs/policies/introduction",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/astrakit/documentation/tree/main/packages/create-docusaurus/templates/shared/docs/policies/introduction.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "description": "Introduction to the different policies we have",
+    "sidebar_position": 0,
+    "sidebar_label": "Introduction"
+  },
+  "sidebar": "policyDocSidebar",
+  "next": {
+    "title": "Privacy policy",
+    "permalink": "/docs/policies/privacy"
+  }
+}
