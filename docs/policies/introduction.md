@@ -12,15 +12,13 @@ sidebar_label: Introduction
 Welcome to our Policies section. Here you'll find important documents that govern how our services operate and how we handle your data.
 
 ## What's Included
-
 This section contains essential legal and operational guidelines including:
-
-- Privacy Policy - How we collect, use, and protect your data
-- Terms of Service - Rules and conditions for using our services
-- Additional policies that may affect your use of our platform
+- Privacy Policy - How we collect, use, and protect your data - [Access policy](privacy)
+- Terms of Service - Rules and conditions for using our services - [Access policy](tos)
+- Security notice - Procedures we use to protect our systems and your data - [Access policy](securityrep)
+- GDPR - European union law for data protection and privacy rights - [Access policy](gdpr)
 
 ## Why These Matter
-
 These policies are designed to:
 - Ensure transparency in how we operate
 - Protect both your rights and ours

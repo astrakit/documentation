@@ -3,7 +3,7 @@ description: Information about your Astrakit account
 sidebar_position: 1
 ---
 # Your account at Astrakit
-:::warning
+:::warning Disclaimer - Only works on official Astrakit instances!
 
 **Warning!** this documentation only affects the backends officially hosted by Astrakit, self hosted backend can be modified!
 
