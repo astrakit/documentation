@@ -11,6 +11,11 @@
           "mainDocId": "user/getting-started",
           "docs": [
             {
+              "id": "api/account/login",
+              "path": "/docs/api/account/login",
+              "sidebar": "apiDocSidebar"
+            },
+            {
               "id": "api/introduction",
               "path": "/docs/api/introduction",
               "sidebar": "apiDocSidebar"
@@ -149,6 +154,11 @@
               "id": "/category/showcase",
               "path": "/docs/category/showcase",
               "sidebar": "userDocSidebar"
+            },
+            {
+              "id": "/category/account",
+              "path": "/docs/category/account",
+              "sidebar": "apiDocSidebar"
             }
           ],
           "draftIds": [],
@@ -180,8 +190,8 @@
   "docusaurus-lunr-search": {
     "default": {
       "fileNames": {
-        "searchDoc": "search-doc-1742412513580.json",
-        "lunrIndex": "lunr-index-1742412513580.json"
+        "searchDoc": "search-doc-1742592341486.json",
+        "lunrIndex": "lunr-index-1742592341486.json"
       }
     }
   }

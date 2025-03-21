@@ -1,0 +1,25 @@
+{
+  "id": "api/account/login",
+  "title": "/account/login",
+  "description": "",
+  "source": "@site/docs/api/account/login.md",
+  "sourceDirName": "api/account",
+  "slug": "/api/account/login",
+  "permalink": "/docs/api/account/login",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/astrakit/documentation/tree/main/packages/create-docusaurus/templates/shared/docs/api/account/login.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "apiDocSidebar",
+  "previous": {
+    "title": "/account",
+    "permalink": "/docs/category/account"
+  }
+}

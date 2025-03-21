@@ -54,19 +54,31 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '730'),
+    component: ComponentCreator('/docs', 'a84'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '73c'),
+        component: ComponentCreator('/docs', 'bf3'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', 'e5a'),
+            component: ComponentCreator('/docs', '903'),
             routes: [
+              {
+                path: '/docs/api/account/login',
+                component: ComponentCreator('/docs/api/account/login', 'ba6'),
+                exact: true,
+                sidebar: "apiDocSidebar"
+              },
               {
                 path: '/docs/api/introduction',
                 component: ComponentCreator('/docs/api/introduction', '6c8'),
+                exact: true,
+                sidebar: "apiDocSidebar"
+              },
+              {
+                path: '/docs/category/account',
+                component: ComponentCreator('/docs/category/account', 'acf'),
                 exact: true,
                 sidebar: "apiDocSidebar"
               },

@@ -17,5 +17,9 @@
   "frontMatter": {
     "sidebar_position": 1
   },
-  "sidebar": "apiDocSidebar"
+  "sidebar": "apiDocSidebar",
+  "next": {
+    "title": "/account",
+    "permalink": "/docs/category/account"
+  }
 }

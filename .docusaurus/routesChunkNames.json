@@ -72,22 +72,30 @@
     },
     "content": "content---markdown-page-393-028"
   },
-  "/docs-730": {
+  "/docs-a84": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docsaba-d7c"
     }
   },
-  "/docs-73c": {
+  "/docs-bf3": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---docs-005-788"
   },
-  "/docs-e5a": {
+  "/docs-903": {
     "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/docs/api/account/login-ba6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-api-account-loginee-6-513"
   },
   "/docs/api/introduction-6c8": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-api-introductiona-98-3d9"
+  },
+  "/docs/category/account-acf": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---docs-category-account-96-c-52e"
   },
   "/docs/category/chats-18e": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
