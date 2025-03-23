@@ -1,7 +1,7 @@
 {
   "id": "api/account/login",
   "title": "/account/login",
-  "description": "",
+  "description": "This endpoint authenticates a user and returns an authentication token.",
   "source": "@site/docs/api/account/login.md",
   "sourceDirName": "api/account",
   "slug": "/api/account/login",
@@ -21,5 +21,9 @@
   "previous": {
     "title": "/account",
     "permalink": "/docs/category/account"
+  },
+  "next": {
+    "title": "/account/register",
+    "permalink": "/docs/api/account/register"
   }
 }

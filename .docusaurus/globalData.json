@@ -16,6 +16,11 @@
               "sidebar": "apiDocSidebar"
             },
             {
+              "id": "api/account/register",
+              "path": "/docs/api/account/register",
+              "sidebar": "apiDocSidebar"
+            },
+            {
               "id": "api/introduction",
               "path": "/docs/api/introduction",
               "sidebar": "apiDocSidebar"
@@ -190,8 +195,8 @@
   "docusaurus-lunr-search": {
     "default": {
       "fileNames": {
-        "searchDoc": "search-doc-1742592341486.json",
-        "lunrIndex": "lunr-index-1742592341486.json"
+        "searchDoc": "search-doc-1742745571960.json",
+        "lunrIndex": "lunr-index-1742745571960.json"
       }
     }
   }
