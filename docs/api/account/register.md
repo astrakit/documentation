@@ -18,12 +18,13 @@ GET https://api.astrakit.cc/api/account/register
 |-----------|------|----------|-------------|
 | email | string | Yes | User's email address |
 | password | string | Yes | Desired account password |
+| username | string | Yes | Desired account username |
 | code | string | Yes | Registration invitation code |
 
 ## Example Request
 
 ```
-GET https://api.astrakit.cc/api/account/register?email=user@example.com&password=yourpassword&code=invitationcode
+GET https://api.astrakit.cc/api/account/register?email=user@example.com&password=yourpassword&username=meowmeow&code=invitationcode
 ```
 
 ## Example Response
