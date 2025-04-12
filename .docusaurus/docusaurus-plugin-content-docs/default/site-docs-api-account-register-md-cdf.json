@@ -1,7 +1,7 @@
 {
   "id": "api/account/register",
-  "title": "/account/register",
-  "description": "This endpoint registers a new user account in the system.",
+  "title": "/register",
+  "description": "Registration endpoint",
   "source": "@site/docs/api/account/register.md",
   "sourceDirName": "api/account",
   "slug": "/api/account/register",
@@ -15,11 +15,17 @@
   "lastUpdatedAt": 1539502055000,
   "sidebarPosition": 2,
   "frontMatter": {
-    "sidebar_position": 2
+    "description": "Registration endpoint",
+    "sidebar_position": 2,
+    "sidebar_label": "/register"
   },
   "sidebar": "apiDocSidebar",
   "previous": {
-    "title": "/account/login",
+    "title": "/login",
     "permalink": "/docs/api/account/login"
+  },
+  "next": {
+    "title": "/edit/delete",
+    "permalink": "/docs/api/account/edit-delete"
   }
 }

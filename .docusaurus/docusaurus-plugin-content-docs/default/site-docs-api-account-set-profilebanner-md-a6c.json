@@ -1,0 +1,31 @@
+{
+  "id": "api/account/set-profilebanner",
+  "title": "/set/profilebanner",
+  "description": "Set user profile banner from URL",
+  "source": "@site/docs/api/account/set-profilebanner.md",
+  "sourceDirName": "api/account",
+  "slug": "/api/account/set-profilebanner",
+  "permalink": "/docs/api/account/set-profilebanner",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/astrakit/documentation/tree/main/packages/create-docusaurus/templates/shared/docs/api/account/set-profilebanner.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 201,
+  "frontMatter": {
+    "description": "Set user profile banner from URL",
+    "sidebar_position": 201,
+    "sidebar_label": "/set/profilebanner"
+  },
+  "sidebar": "apiDocSidebar",
+  "previous": {
+    "title": "/set/profilepicture",
+    "permalink": "/docs/api/account/set-profilepicture"
+  },
+  "next": {
+    "title": "/set/profilemusic",
+    "permalink": "/docs/api/account/set-profilemusic"
+  }
+}

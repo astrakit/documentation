@@ -1,0 +1,31 @@
+{
+  "id": "api/account/prefs-set",
+  "title": "/prefs/set",
+  "description": "Change some user prefs from the API",
+  "source": "@site/docs/api/account/prefs-set.md",
+  "sourceDirName": "api/account",
+  "slug": "/api/account/prefs-set",
+  "permalink": "/docs/api/account/prefs-set",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/astrakit/documentation/tree/main/packages/create-docusaurus/templates/shared/docs/api/account/prefs-set.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 101,
+  "frontMatter": {
+    "description": "Change some user prefs from the API",
+    "sidebar_position": 101,
+    "sidebar_label": "/prefs/set"
+  },
+  "sidebar": "apiDocSidebar",
+  "previous": {
+    "title": "/prefs/get",
+    "permalink": "/docs/api/account/prefs-get"
+  },
+  "next": {
+    "title": "/set/profilepicture",
+    "permalink": "/docs/api/account/set-profilepicture"
+  }
+}

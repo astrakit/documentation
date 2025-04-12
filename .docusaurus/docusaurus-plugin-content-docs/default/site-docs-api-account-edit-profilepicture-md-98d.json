@@ -1,0 +1,31 @@
+{
+  "id": "api/account/edit-profilepicture",
+  "title": "/edit/profilepicture",
+  "description": "Profile picture custom upload",
+  "source": "@site/docs/api/account/edit-profilepicture.md",
+  "sourceDirName": "api/account",
+  "slug": "/api/account/edit-profilepicture",
+  "permalink": "/docs/api/account/edit-profilepicture",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/astrakit/documentation/tree/main/packages/create-docusaurus/templates/shared/docs/api/account/edit-profilepicture.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "description": "Profile picture custom upload",
+    "sidebar_position": 5,
+    "sidebar_label": "/edit/profilepicture"
+  },
+  "sidebar": "apiDocSidebar",
+  "previous": {
+    "title": "/edit/update",
+    "permalink": "/docs/api/account/edit-update"
+  },
+  "next": {
+    "title": "/edit/profilebanner",
+    "permalink": "/docs/api/account/edit-profilebanner"
+  }
+}

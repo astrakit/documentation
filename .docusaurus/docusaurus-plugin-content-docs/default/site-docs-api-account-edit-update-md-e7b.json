@@ -1,0 +1,31 @@
+{
+  "id": "api/account/edit-update",
+  "title": "/edit/update",
+  "description": "Account update endpoint",
+  "source": "@site/docs/api/account/edit-update.md",
+  "sourceDirName": "api/account",
+  "slug": "/api/account/edit-update",
+  "permalink": "/docs/api/account/edit-update",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/astrakit/documentation/tree/main/packages/create-docusaurus/templates/shared/docs/api/account/edit-update.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "description": "Account update endpoint",
+    "sidebar_position": 4,
+    "sidebar_label": "/edit/update"
+  },
+  "sidebar": "apiDocSidebar",
+  "previous": {
+    "title": "/edit/delete",
+    "permalink": "/docs/api/account/edit-delete"
+  },
+  "next": {
+    "title": "/edit/profilepicture",
+    "permalink": "/docs/api/account/edit-profilepicture"
+  }
+}

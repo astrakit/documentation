@@ -1,0 +1,31 @@
+{
+  "id": "api/account/set-profilemusic",
+  "title": "/set/profilemusic",
+  "description": "Set user profile music from URL",
+  "source": "@site/docs/api/account/set-profilemusic.md",
+  "sourceDirName": "api/account",
+  "slug": "/api/account/set-profilemusic",
+  "permalink": "/docs/api/account/set-profilemusic",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/astrakit/documentation/tree/main/packages/create-docusaurus/templates/shared/docs/api/account/set-profilemusic.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 202,
+  "frontMatter": {
+    "description": "Set user profile music from URL",
+    "sidebar_position": 202,
+    "sidebar_label": "/set/profilemusic"
+  },
+  "sidebar": "apiDocSidebar",
+  "previous": {
+    "title": "/set/profilebanner",
+    "permalink": "/docs/api/account/set-profilebanner"
+  },
+  "next": {
+    "title": "/friend/add",
+    "permalink": "/docs/api/account/friend-add"
+  }
+}

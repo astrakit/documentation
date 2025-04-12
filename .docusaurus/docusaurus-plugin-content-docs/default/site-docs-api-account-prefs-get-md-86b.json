@@ -1,0 +1,31 @@
+{
+  "id": "api/account/prefs-get",
+  "title": "/prefs/get",
+  "description": "Get some user prefs from the API",
+  "source": "@site/docs/api/account/prefs-get.md",
+  "sourceDirName": "api/account",
+  "slug": "/api/account/prefs-get",
+  "permalink": "/docs/api/account/prefs-get",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/astrakit/documentation/tree/main/packages/create-docusaurus/templates/shared/docs/api/account/prefs-get.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 100,
+  "frontMatter": {
+    "description": "Get some user prefs from the API",
+    "sidebar_position": 100,
+    "sidebar_label": "/prefs/get"
+  },
+  "sidebar": "apiDocSidebar",
+  "previous": {
+    "title": "/edit/profilebanner",
+    "permalink": "/docs/api/account/edit-profilebanner"
+  },
+  "next": {
+    "title": "/prefs/set",
+    "permalink": "/docs/api/account/prefs-set"
+  }
+}

@@ -1,7 +1,7 @@
 {
   "id": "api/account/login",
-  "title": "/account/login",
-  "description": "This endpoint authenticates a user and returns an authentication token.",
+  "title": "/login",
+  "description": "Login endpoint",
   "source": "@site/docs/api/account/login.md",
   "sourceDirName": "api/account",
   "slug": "/api/account/login",
@@ -15,7 +15,9 @@
   "lastUpdatedAt": 1539502055000,
   "sidebarPosition": 1,
   "frontMatter": {
-    "sidebar_position": 1
+    "description": "Login endpoint",
+    "sidebar_position": 1,
+    "sidebar_label": "/login"
   },
   "sidebar": "apiDocSidebar",
   "previous": {
@@ -23,7 +25,7 @@
     "permalink": "/docs/category/account"
   },
   "next": {
-    "title": "/account/register",
+    "title": "/register",
     "permalink": "/docs/api/account/register"
   }
 }

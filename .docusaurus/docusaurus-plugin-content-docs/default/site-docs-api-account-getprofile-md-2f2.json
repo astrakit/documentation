@@ -1,0 +1,27 @@
+{
+  "id": "api/account/getprofile",
+  "title": "/getprofile",
+  "description": "Return a user's public profile",
+  "source": "@site/docs/api/account/getprofile.md",
+  "sourceDirName": "api/account",
+  "slug": "/api/account/getprofile",
+  "permalink": "/docs/api/account/getprofile",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/astrakit/documentation/tree/main/packages/create-docusaurus/templates/shared/docs/api/account/getprofile.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 9999,
+  "frontMatter": {
+    "description": "Return a user's public profile",
+    "sidebar_position": 9999,
+    "sidebar_label": "/getprofile"
+  },
+  "sidebar": "apiDocSidebar",
+  "previous": {
+    "title": "/search",
+    "permalink": "/docs/api/account/search"
+  }
+}

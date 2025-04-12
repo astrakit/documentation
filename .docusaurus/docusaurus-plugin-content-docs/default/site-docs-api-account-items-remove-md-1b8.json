@@ -1,0 +1,31 @@
+{
+  "id": "api/account/items-remove",
+  "title": "/items/remove",
+  "description": "Remove profile item",
+  "source": "@site/docs/api/account/items-remove.md",
+  "sourceDirName": "api/account",
+  "slug": "/api/account/items-remove",
+  "permalink": "/docs/api/account/items-remove",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/astrakit/documentation/tree/main/packages/create-docusaurus/templates/shared/docs/api/account/items-remove.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 401,
+  "frontMatter": {
+    "description": "Remove profile item",
+    "sidebar_position": 401,
+    "sidebar_label": "/items/remove"
+  },
+  "sidebar": "apiDocSidebar",
+  "previous": {
+    "title": "/items/add",
+    "permalink": "/docs/api/account/items-add"
+  },
+  "next": {
+    "title": "/items/edit",
+    "permalink": "/docs/api/account/items-edit"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "api/account/friend-add",
+  "title": "/friend/add",
+  "description": "Add a friend to current account",
+  "source": "@site/docs/api/account/friend-add.md",
+  "sourceDirName": "api/account",
+  "slug": "/api/account/friend-add",
+  "permalink": "/docs/api/account/friend-add",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/astrakit/documentation/tree/main/packages/create-docusaurus/templates/shared/docs/api/account/friend-add.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 300,
+  "frontMatter": {
+    "description": "Add a friend to current account",
+    "sidebar_position": 300,
+    "sidebar_label": "/friend/add"
+  },
+  "sidebar": "apiDocSidebar",
+  "previous": {
+    "title": "/set/profilemusic",
+    "permalink": "/docs/api/account/set-profilemusic"
+  },
+  "next": {
+    "title": "/friend/remove",
+    "permalink": "/docs/api/account/friend-remove"
+  }
+}

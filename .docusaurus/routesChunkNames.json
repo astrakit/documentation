@@ -72,26 +72,94 @@
     },
     "content": "content---markdown-page-393-028"
   },
-  "/docs-420": {
+  "/docs-a04": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docsaba-d7c"
     }
   },
-  "/docs-07e": {
+  "/docs-99f": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---docs-005-788"
   },
-  "/docs-7c2": {
+  "/docs-312": {
     "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/docs/api/account/edit-delete-c5c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-api-account-edit-delete-904-88b"
+  },
+  "/docs/api/account/edit-profilebanner-251": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-api-account-edit-profilebannerf-08-99f"
+  },
+  "/docs/api/account/edit-profilepicture-212": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-api-account-edit-profilepicture-98-d-806"
+  },
+  "/docs/api/account/edit-update-733": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-api-account-edit-updatee-7-b-646"
+  },
+  "/docs/api/account/friend-add-4d5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-api-account-friend-adda-69-c59"
+  },
+  "/docs/api/account/friend-remove-36c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-api-account-friend-removeb-07-6ce"
+  },
+  "/docs/api/account/getprofile-357": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-api-account-getprofile-2-f-2-45e"
+  },
+  "/docs/api/account/items-add-9f4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-api-account-items-add-2-fe-375"
+  },
+  "/docs/api/account/items-edit-e5a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-api-account-items-edita-16-ed5"
+  },
+  "/docs/api/account/items-remove-c6a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-api-account-items-remove-1-b-8-d48"
+  },
+  "/docs/api/account/items-reorder-fd7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-api-account-items-reorder-2-eb-f15"
   },
   "/docs/api/account/login-ba6": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-api-account-loginee-6-513"
   },
+  "/docs/api/account/prefs-get-889": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-api-account-prefs-get-86-b-8e0"
+  },
+  "/docs/api/account/prefs-set-122": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-api-account-prefs-setc-4-c-901"
+  },
   "/docs/api/account/register-03b": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-api-account-registercdf-ce5"
+  },
+  "/docs/api/account/search-03a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-api-account-search-2-d-1-ad5"
+  },
+  "/docs/api/account/set-profilebanner-37c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-api-account-set-profilebannera-6-c-b9e"
+  },
+  "/docs/api/account/set-profilemusic-d3c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-api-account-set-profilemusic-267-f7c"
+  },
+  "/docs/api/account/set-profilepicture-732": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-api-account-set-profilepicture-816-d7b"
   },
   "/docs/api/introduction-6c8": {
     "__comp": "__comp---theme-doc-item-178-a40",

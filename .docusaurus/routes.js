@@ -54,16 +54,82 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '420'),
+    component: ComponentCreator('/docs', 'a04'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '07e'),
+        component: ComponentCreator('/docs', '99f'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '7c2'),
+            component: ComponentCreator('/docs', '312'),
             routes: [
+              {
+                path: '/docs/api/account/edit-delete',
+                component: ComponentCreator('/docs/api/account/edit-delete', 'c5c'),
+                exact: true,
+                sidebar: "apiDocSidebar"
+              },
+              {
+                path: '/docs/api/account/edit-profilebanner',
+                component: ComponentCreator('/docs/api/account/edit-profilebanner', '251'),
+                exact: true,
+                sidebar: "apiDocSidebar"
+              },
+              {
+                path: '/docs/api/account/edit-profilepicture',
+                component: ComponentCreator('/docs/api/account/edit-profilepicture', '212'),
+                exact: true,
+                sidebar: "apiDocSidebar"
+              },
+              {
+                path: '/docs/api/account/edit-update',
+                component: ComponentCreator('/docs/api/account/edit-update', '733'),
+                exact: true,
+                sidebar: "apiDocSidebar"
+              },
+              {
+                path: '/docs/api/account/friend-add',
+                component: ComponentCreator('/docs/api/account/friend-add', '4d5'),
+                exact: true,
+                sidebar: "apiDocSidebar"
+              },
+              {
+                path: '/docs/api/account/friend-remove',
+                component: ComponentCreator('/docs/api/account/friend-remove', '36c'),
+                exact: true,
+                sidebar: "apiDocSidebar"
+              },
+              {
+                path: '/docs/api/account/getprofile',
+                component: ComponentCreator('/docs/api/account/getprofile', '357'),
+                exact: true,
+                sidebar: "apiDocSidebar"
+              },
+              {
+                path: '/docs/api/account/items-add',
+                component: ComponentCreator('/docs/api/account/items-add', '9f4'),
+                exact: true,
+                sidebar: "apiDocSidebar"
+              },
+              {
+                path: '/docs/api/account/items-edit',
+                component: ComponentCreator('/docs/api/account/items-edit', 'e5a'),
+                exact: true,
+                sidebar: "apiDocSidebar"
+              },
+              {
+                path: '/docs/api/account/items-remove',
+                component: ComponentCreator('/docs/api/account/items-remove', 'c6a'),
+                exact: true,
+                sidebar: "apiDocSidebar"
+              },
+              {
+                path: '/docs/api/account/items-reorder',
+                component: ComponentCreator('/docs/api/account/items-reorder', 'fd7'),
+                exact: true,
+                sidebar: "apiDocSidebar"
+              },
               {
                 path: '/docs/api/account/login',
                 component: ComponentCreator('/docs/api/account/login', 'ba6'),
@@ -71,8 +137,44 @@ export default [
                 sidebar: "apiDocSidebar"
               },
               {
+                path: '/docs/api/account/prefs-get',
+                component: ComponentCreator('/docs/api/account/prefs-get', '889'),
+                exact: true,
+                sidebar: "apiDocSidebar"
+              },
+              {
+                path: '/docs/api/account/prefs-set',
+                component: ComponentCreator('/docs/api/account/prefs-set', '122'),
+                exact: true,
+                sidebar: "apiDocSidebar"
+              },
+              {
                 path: '/docs/api/account/register',
                 component: ComponentCreator('/docs/api/account/register', '03b'),
+                exact: true,
+                sidebar: "apiDocSidebar"
+              },
+              {
+                path: '/docs/api/account/search',
+                component: ComponentCreator('/docs/api/account/search', '03a'),
+                exact: true,
+                sidebar: "apiDocSidebar"
+              },
+              {
+                path: '/docs/api/account/set-profilebanner',
+                component: ComponentCreator('/docs/api/account/set-profilebanner', '37c'),
+                exact: true,
+                sidebar: "apiDocSidebar"
+              },
+              {
+                path: '/docs/api/account/set-profilemusic',
+                component: ComponentCreator('/docs/api/account/set-profilemusic', 'd3c'),
+                exact: true,
+                sidebar: "apiDocSidebar"
+              },
+              {
+                path: '/docs/api/account/set-profilepicture',
+                component: ComponentCreator('/docs/api/account/set-profilepicture', '732'),
                 exact: true,
                 sidebar: "apiDocSidebar"
               },

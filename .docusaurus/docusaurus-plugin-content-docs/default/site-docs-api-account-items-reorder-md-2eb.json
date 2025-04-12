@@ -1,0 +1,31 @@
+{
+  "id": "api/account/items-reorder",
+  "title": "/items/reorder",
+  "description": "Reorder profile item",
+  "source": "@site/docs/api/account/items-reorder.md",
+  "sourceDirName": "api/account",
+  "slug": "/api/account/items-reorder",
+  "permalink": "/docs/api/account/items-reorder",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/astrakit/documentation/tree/main/packages/create-docusaurus/templates/shared/docs/api/account/items-reorder.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 404,
+  "frontMatter": {
+    "description": "Reorder profile item",
+    "sidebar_position": 404,
+    "sidebar_label": "/items/reorder"
+  },
+  "sidebar": "apiDocSidebar",
+  "previous": {
+    "title": "/items/edit",
+    "permalink": "/docs/api/account/items-edit"
+  },
+  "next": {
+    "title": "/search",
+    "permalink": "/docs/api/account/search"
+  }
+}

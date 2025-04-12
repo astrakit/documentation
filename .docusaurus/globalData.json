@@ -11,13 +11,98 @@
           "mainDocId": "user/getting-started",
           "docs": [
             {
+              "id": "api/account/edit-delete",
+              "path": "/docs/api/account/edit-delete",
+              "sidebar": "apiDocSidebar"
+            },
+            {
+              "id": "api/account/edit-profilebanner",
+              "path": "/docs/api/account/edit-profilebanner",
+              "sidebar": "apiDocSidebar"
+            },
+            {
+              "id": "api/account/edit-profilepicture",
+              "path": "/docs/api/account/edit-profilepicture",
+              "sidebar": "apiDocSidebar"
+            },
+            {
+              "id": "api/account/edit-update",
+              "path": "/docs/api/account/edit-update",
+              "sidebar": "apiDocSidebar"
+            },
+            {
+              "id": "api/account/friend-add",
+              "path": "/docs/api/account/friend-add",
+              "sidebar": "apiDocSidebar"
+            },
+            {
+              "id": "api/account/friend-remove",
+              "path": "/docs/api/account/friend-remove",
+              "sidebar": "apiDocSidebar"
+            },
+            {
+              "id": "api/account/getprofile",
+              "path": "/docs/api/account/getprofile",
+              "sidebar": "apiDocSidebar"
+            },
+            {
+              "id": "api/account/items-add",
+              "path": "/docs/api/account/items-add",
+              "sidebar": "apiDocSidebar"
+            },
+            {
+              "id": "api/account/items-edit",
+              "path": "/docs/api/account/items-edit",
+              "sidebar": "apiDocSidebar"
+            },
+            {
+              "id": "api/account/items-remove",
+              "path": "/docs/api/account/items-remove",
+              "sidebar": "apiDocSidebar"
+            },
+            {
+              "id": "api/account/items-reorder",
+              "path": "/docs/api/account/items-reorder",
+              "sidebar": "apiDocSidebar"
+            },
+            {
               "id": "api/account/login",
               "path": "/docs/api/account/login",
               "sidebar": "apiDocSidebar"
             },
             {
+              "id": "api/account/prefs-get",
+              "path": "/docs/api/account/prefs-get",
+              "sidebar": "apiDocSidebar"
+            },
+            {
+              "id": "api/account/prefs-set",
+              "path": "/docs/api/account/prefs-set",
+              "sidebar": "apiDocSidebar"
+            },
+            {
               "id": "api/account/register",
               "path": "/docs/api/account/register",
+              "sidebar": "apiDocSidebar"
+            },
+            {
+              "id": "api/account/search",
+              "path": "/docs/api/account/search",
+              "sidebar": "apiDocSidebar"
+            },
+            {
+              "id": "api/account/set-profilebanner",
+              "path": "/docs/api/account/set-profilebanner",
+              "sidebar": "apiDocSidebar"
+            },
+            {
+              "id": "api/account/set-profilemusic",
+              "path": "/docs/api/account/set-profilemusic",
+              "sidebar": "apiDocSidebar"
+            },
+            {
+              "id": "api/account/set-profilepicture",
+              "path": "/docs/api/account/set-profilepicture",
               "sidebar": "apiDocSidebar"
             },
             {
@@ -195,8 +280,8 @@
   "docusaurus-lunr-search": {
     "default": {
       "fileNames": {
-        "searchDoc": "search-doc-1742745571960.json",
-        "lunrIndex": "lunr-index-1742745571960.json"
+        "searchDoc": "search-doc-1744442556289.json",
+        "lunrIndex": "lunr-index-1744442556289.json"
       }
     }
   }
