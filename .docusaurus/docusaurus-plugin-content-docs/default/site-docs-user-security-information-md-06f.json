@@ -1,7 +1,7 @@
 {
   "id": "user/security/information",
   "title": "How does Astrakit's security work?",
-  "description": "Learn more about private chats and what they even are!",
+  "description": "Learn about Astrakit's end-to-end RSA and Zero-Knowledge encryption technologies that protect your privacy.",
   "source": "@site/docs/user/security/information.md",
   "sourceDirName": "user/security",
   "slug": "/user/security/information",
@@ -14,7 +14,7 @@
   "lastUpdatedBy": "Author",
   "lastUpdatedAt": 1539502055000,
   "frontMatter": {
-    "description": "Learn more about private chats and what they even are!"
+    "description": "Learn about Astrakit's end-to-end RSA and Zero-Knowledge encryption technologies that protect your privacy."
   },
   "sidebar": "userDocSidebar",
   "previous": {
