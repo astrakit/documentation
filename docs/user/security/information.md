@@ -51,6 +51,8 @@ Zero-Knowledge (ZK) encryption means Astrakit knows nothing about your data. We 
 - We can still provide services without seeing your private data
 - You maintain complete control over your information
 
+---
+
 ## Practical Benefits
 
 - **True privacy**: Your personal conversations and data belong only to you
