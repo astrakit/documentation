@@ -3,14 +3,14 @@ description: Learn about Astrakit's end-to-end RSA and Zero-Knowledge encryption
 ---
 # How does Astrakit's security work?
 
-Astrakit employs two powerful encryption technologies to keep your data private and secure: End-to-End RSA Encryption and Zero-Knowledge Encryption. Let's break down what these mean for you.
+Astrakit employs two optional powerful encryption technologies to keep your data private and secure: End-to-End RSA Encryption and Zero-Knowledge Encryption. Let's break down what these mean for you.
 
 ---
 
 ## Temporary Message Storage
 
 ### How it works
-- Messages are only stored on our servers until they're delivered and read
+- Messages are only stored on our servers until they're delivered and read by everyone
 - Once a message is read by the recipient, it's automatically deleted from our servers
 - Your conversations exist only on your devices, not in our cloud
 

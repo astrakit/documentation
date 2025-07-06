@@ -12,17 +12,17 @@
 
 
 :root {
-  --ifm-color-primary: #8bcc5b;
-  --ifm-color-primary-dark: #7ab850;
-  --ifm-color-primary-darker: #69a444;
-  --ifm-color-primary-darkest: #577f39;
-  --ifm-color-primary-light: #9cd46f;
-  --ifm-color-primary-lighter: #addc83;
-  --ifm-color-primary-lightest: #c3e5a1;
+  --ifm-color-primary: #b98cff;
+  --ifm-color-primary-dark: #a06be6;
+  --ifm-color-primary-darker: #8a4fd1;
+  --ifm-color-primary-darkest: #6d36a7;
+  --ifm-color-primary-light: #c9aaff;
+  --ifm-color-primary-lighter: #e0d1ff;
+  --ifm-color-primary-lightest: #f3edff;
   --ifm-code-font-size: 95%;
-  --ifm-background-color: #161616;
-  --ifm-font-color-base: #ffffff;
-  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+  --ifm-background-color: #f7f4fa;
+  --ifm-font-color-base: #d2d2d2;
+  --docusaurus-highlighted-code-line-bg: rgba(185, 140, 255, 0.08);
   
   /* Font family variables */
   --ifm-font-family-base: 'Spline Sans', system-ui, -apple-system, sans-serif;
@@ -31,15 +31,15 @@
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
 [data-theme='dark'] {
-  --ifm-color-primary: #a3db78;
-  --ifm-color-primary-dark: #95cc6b;
-  --ifm-color-primary-darker: #88be5f;
-  --ifm-color-primary-darkest: #7ab054;
-  --ifm-color-primary-light: #b1e587;
-  --ifm-color-primary-lighter: #c0ed97;
-  --ifm-color-primary-lightest: #d0f5aa;
-  --ifm-background-color: #161616;
-  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+  --ifm-color-primary: #d1b3ff;
+  --ifm-color-primary-dark: #b98cff;
+  --ifm-color-primary-darker: #a06be6;
+  --ifm-color-primary-darkest: #8a4fd1;
+  --ifm-color-primary-light: #e0d1ff;
+  --ifm-color-primary-lighter: #f3edff;
+  --ifm-color-primary-lightest: #ffffff;
+  --ifm-background-color: #2a1a3a;
+  --docusaurus-highlighted-code-line-bg: rgba(185, 140, 255, 0.18);
 }
 
 /* Apply header font to all headings */
@@ -54,17 +54,17 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 ::selection {
-  background-color: #161616;
-  color: #8bcc5b;
+  background-color: #b98cff;
+  color: #fff;
 }
 
 ::-moz-selection {
-  background-color: #161616;
-  color: #8bcc5b;
+  background-color: #b98cff;
+  color: #fff;
 }
 
 .search-icon {
-  color: #8bcc5b !important;
+  color: #b98cff !important;
 }
 
 /* Target SVG elements within the search icon */
@@ -72,37 +72,37 @@ h1, h2, h3, h4, h5, h6 {
 .search-icon svg path,
 .search-icon svg rect,
 .search-icon svg circle {
-  fill: #8bcc5b !important;
-  stroke: #8bcc5b !important;
+  fill: #b98cff !important;
+  stroke: #b98cff !important;
 }
 
 /* If the icon uses a pseudo-element */
 .search-icon::before,
 .search-icon::after {
-  color: #8bcc5b !important;
+  color: #b98cff !important;
 }
 
 /* If it's a background image with filter */
 .search-icon {
-  filter: brightness(0) saturate(100%) invert(79%) sepia(24%) saturate(1079%) hue-rotate(53deg) brightness(93%) contrast(85%);
+  filter: brightness(0) saturate(100%) invert(80%) sepia(20%) saturate(750%) hue-rotate(230deg) brightness(105%) contrast(90%);
 }
 
 .navbar--dark {
-  --ifm-navbar-background-color: #2e3826 !important;
+  --ifm-navbar-background-color: #3d2a4d !important;
   --ifm-navbar-link-hover-color: var(--ifm-color-primary);
-  --ifm-menu-color-background-active: rgba(255, 255, 255, 0.05);
+  --ifm-menu-color-background-active: rgba(185, 140, 255, 0.08);
   --ifm-navbar-search-input-color: var(--ifm-color-white);
 }
 
 .hero--dark {
-  --ifm-hero-background-color: #252525 !important;
+  --ifm-hero-background-color: #2a1a3a !important;
   --ifm-hero-text-color: var(--ifm-color-white);
 }
 
 .footer--dark {
-  --ifm-footer-background-color: #252525 !important;
+  --ifm-footer-background-color: #2a1a3a !important;
   --ifm-footer-color: var(--ifm-footer-link-color);
-  --ifm-footer-link-color: var(--ifm-color-secondary);
+  --ifm-footer-link-color: var(--ifm-color-primary-lightest);
   --ifm-footer-title-color: var(--ifm-color-white);
 }
 

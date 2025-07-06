@@ -22,7 +22,7 @@ export default {
     "localeConfigs": {}
   },
   "plugins": [
-    "C:\\Users\\TomBu\\Documents\\code\\documentation\\node_modules\\docusaurus-lunr-search\\src\\index.js"
+    "/run/media/cat/QVO/01 - CODE/astrakit-docs/documentation/node_modules/docusaurus-lunr-search/src/index.js"
   ],
   "presets": [
     [
