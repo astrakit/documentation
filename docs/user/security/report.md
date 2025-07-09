@@ -16,4 +16,4 @@ You can report security issues using the E-Mail adresses below:
 If you wanna report a security issue you can also do that inside the app as follows:
 
 ## Anonymous security report
-You can send an anonymous security report through this link:
+You can send an anonymous security report through this link: https://api.astrakit.cc/securityreport
